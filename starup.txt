@@ -1,0 +1,2025 @@
+
+
+    Date   Startup              Industry       Location    Investor          Type        Amount
+  0 01-04- BYJU'S               Edu-tech       Bengaluru   Innoven Capital   Series F    46,00,00,000
+    2021
+  1 05-04- Meesho               E-commerce     Bengaluru   SoftBank Vision   Series E    30,00,00,000
+    2021                                                   Fund 2
+                                                           Amansa Holdings,
+    14-04-                      Online Food                Carmignac, Falcon
+  2 2021   Swiggy               Delivery       Bengaluru   Edge Capital,     Series J    34,30,00,000
+                                                           Goldman Sachs,
+                                                           Think Investments
+    07-04-                                                 MC Global Edtech,
+  3 2021   Groww                FinTech        Bengaluru   B Capital, Baron, Series D    8,30,00,000
+                                                           others
+  4 14-04- Beldara              E-commerce     Mumbai      Hindustan Media   Venture     74,00,000
+    2021                                                   Ventures
+  5 04-03- DealShare            E-commerce     Jaipur,     Innoven Capital   Debt        25,00,00,000
+    2021                                       Rajasthan                     Financing
+  6 31-03- Uniphore             Technology     Palo Alto   Sorenson Capital  Series D    14,00,00,000
+    2021                                                   Partners
+  7 30-03- Dunzo                E-commerce     Bengaluru   Krishtal Advisors Series E    80,00,000
+    2021                                                   Pte Ltd
+    30-03-                                                 MC Global Edtech,
+  8 2021   BYJU'S               Edu-tech       Bengaluru   B Capital, Baron, Series F    46,00,00,000
+                                                           others
+  9 23-03- SkilloVilla          Edu-tech       Bengaluru   Titan Capital,    Seed        30,00,00,000
+    2021                                                   others
+ 10 25-03- CityMall             E-commerce     Gurgaon     Accel Partners    Series A    1,10,00,000
+    2021
+ 11 26-03- DotPe                FinTech        Gurgaon     PayU              Series A    2,75,00,000
+    2021
+                                                           SIG Global,
+    11-02-                                                 Sequoia Capital,
+ 12 2021   Doubtnut             Edu Tech       Gurgaon     WaterBridge       Series B    25,00,000
+                                                           Ventures and ON
+                                                           Mauritius
+ 13 22-02- Zomato               Hospitality    Gurgaon     Tiger Global,     Venture     25,00,00,000
+    2021                                                   Kora
+    19-02-                                                 Rhodium Trust,
+ 14 2021   Fingerlix            Hospitality    Mumbai      Accel Partners    Series C    27,47,045.20
+                                                           and Swiggy
+    17-02-                                                 Accel Partners
+ 15 2021   Zolve                FinTech        Mumbai      and Lightspeed    Seed        1,50,00,000
+                                                           Venture Partners
+                                                           Azim Premji ¢ ¬
+    15-02-                                                 ¢s PremjiInvest
+ 16 2021   KreditBee            Finance        Bengaluru   and South Korea ¢ Series C    7,50,00,000
+                                                           ¬ ¢s Mirae
+                                                           Asset Venture
+ 17 12-02- Pepperfry            E-commerce     Mumbai      InnoVen Capital   Debt        47,73,958
+    2021                                                                     Financing
+ 18 12-02- Grofers              E-Commerce     Gurgaon     SoftBank Vision   Unspecified 5,50,00,000
+    2021                                                   Fund (SVF)
+ 19 09-02- Nothing              Technology     London      GV                Series A    1,50,00,000
+    2021
+ 20 09-02- SplashLearn          EdTech         Gurgaon     Owl Ventures      Series C    1,80,00,000
+    2021
+    15-01-                      Financial                  A91 Partners,
+ 21 2021   Digit Insurance      Services       Bengaluru   Faering Capital,  Venture     1,80,00,000
+                                                           TVS Capital Funds
+ 22 28-01- Bombay Shaving       Consumer Goods New Delhi   Reckitt Benckiser Venture     61,72,258.50
+    2021   Company              Company
+ 23 19-01- DeHaat               AgriTech       Patna       Prosus Ventures   Series C    3,00,00,000
+    2021                        Startup
+ 24 19-01- Darwinbox            SaaS           Mumbai      Salesforce        Seed        1,50,00,000
+    2021                                                   Ventures
+ 25 18-01- mfine                Health Tech    Bengaluru   Heritas Capital   Venture     1,60,00,000
+    2021                        Startup                    Management        Round
+ 26 18-01- Udayy                EdTech         Gurgaon     Sequoia Capital   Seed        1,50,00,000
+    2021                                                                     Funding
+ 27 11-01- True Elements        Food Startup   Pune        SIDBI Venture     Series      10,00,00,000
+    2021                                                   Capital
+    13-01-                                                 Matrix Partners
+ 28 2021   Saveo                B2B E-commerce Bengaluru   India, RTP        Seed        40,00,000
+                                                           Global, others
+                                                           Nishant Mittal,
+ 29 15-12- Bira 91              Food and       New Delhi   Pankaj Chaddah    Funding     12,73,634.07
+    2020                        Beverage                   and Shikha Sunil
+                                                           Chandak
+ 30 21-12- Pine Labs            Financial      Noida       Lone Pine Capital Secondary   Undisclosed
+    2020                        Services                                     Market
+ 31 15-12- Zenoti               Technology     Washington  Advent            Series D    16,00,00,000
+    2020                        Provider                   International
+ 32 22-12- Tax Buddy India      FinTech        Mumbai      Zenith Global     Seed        10,00,000
+    2020
+ 33 15-12- Delhivery            Supply chain   Gurgaon     Steadview Capital Secondary   2,50,00,000
+    2020                                                                     Market
+ 34 18-12- PagarBook            SaaS           Bengaluru   Sequoia Capital   Series A    1,50,00,000
+    2020
+                                                           Rebright
+ 35 30-11- Codingal             EduTech        Bengaluru   Partners, Java    Seed        5,60,000
+    2020                                                   Capital, and GSF
+                                                           Accelerator
+ 36 30-11- CRED                 Financial      Bengaluru   DST Global        Series C    8,00,00,000
+    2020                        Services
+                                                           Sofina, Sequoia
+ 37 29-11- Bira 91              Food and       New Delhi   Capital, Sixth    Bridge      30,00,000
+    2020                        Beverage                   Sense Ventures,   Funding
+                                                           Neoplux
+ 38 27-11- Chumbak              Lifestyle      Bengaluru   Gaja Capital Fund Pre-series  10,01,047.92
+    2020                                                   (GCFII-A)         E
+ 39 25-11- Cityflo              Transportation Mumbai      Lightbox Ventures Series A    77,00,000
+    2020
+    25-11-                                                 Sequoia Capital
+ 40 2020   Shipsy               SaaS           Gurgaon     India ¢ ¬ ¢s    Series A    60,03,806
+                                                           Surge, Info Edge
+                                                           Tiger Global
+ 41 25-11- Unacademy            Edutech        Bengaluru   Management,       Venture     10,00,00,000
+    2020                                                   Dragoneer
+                                                           Investment Group
+                                                           Matrix Partners
+                                                           India, SAIF
+ 42 24-11- Cashfree             FinTech        Bengaluru   Partners, Ward    Series B    3,53,00,000
+    2020                                                   Ferry Management
+                                                           and Bertelsmann
+                                                           India
+                                                           Venture Capital
+ 43 30-11- Credgenics           Fintech        Gurgaon     firm, Accel       Pre-Series  35,00,000
+    2020                                                   Partners and DMI  A
+                                                           Finance
+ 44 23-11- Country Delight      Dairy Tech     Gurugram    Elevation Capital Series C    2,50,00,000
+    2020
+ 45 28-10- Nykaa                E-commerce     Mumbai      Alia Bhatt        Personal    NA
+    2020                                                                     Investment
+ 46 28-10- Betterplace          Digital        Bangalore   Jungle Ventures   Series B    10,000,000
+    2020                        Solutions
+    28-10-                                                 Falguni and       Equity and
+ 47 2020   FlexiLoans           FinTech        Mumbai      Sanjay Nayar      Debt        2,01,60,000
+                                                           Family Office
+    27-10-                                                 Chiratae
+ 48 2020   GetVantage           FinTech        Mumbai      Ventures, Dream   Seed        50,00,000
+                                                           Incubators
+                                                           Corporation of
+    27-10-                                                 Dubai (ICD),
+ 49 2020   FreshToHome          E-commerce     Bangalore   Ascent Capital,   Series C    12,10,00,000
+                                                           DFC, the Allana
+                                                           Group
+ 50 27-10- Origo                AgriTech       Gurgaon     Northern Arc      Debt        47,00,000
+    2020                                                   Capital
+ 51 27-10- Origo                Advertising    Mumbai      Sequoia Capital   Series A    1,50,00,000
+    2020                                                   India
+                                                           Matrix Partners
+                                                           India, SAIF
+ 52 15-10- Treebo Hotels        Hospitality    Bangalore   Partners, Ward                60,00,000
+    2020                                                   Ferry Management
+                                                           and Bertelsmann
+                                                           India
+                                               Wilmington,
+ 53 26-10- Hubilo               Information    Delaware,   Lightspeed        Seed        45,00,000
+    2020                        Technology     United      Venture Partners
+                                               States
+                                                           Oaks Asset
+ 54 28-10- CredAble             FinTech        Mumbai      Management and V  Follow-On   45,00,000
+    2020                                                   ¢ ¬ ¢Ocean
+                                                           Investment
+    21-10-                      Information                Tencent, Times
+ 55 2020   Pocket FM            Technology     Bangalore   Group and         Series A    55,00,000
+                                                           Lightspeed India
+ 56 04-08- InVideo              Technology     Bangalore   Sequoia India     Series A    1,50,00,000
+    2020
+                                                           Silver Lake,
+ 57 08-09- BYJU'S               EduTech        Bangalore   Tiger Global,     Private     50,00,00,000
+    2020                                                   General Atlantic  Equity
+                                                           and Owl Ventures
+                                                           Amicus Capital
+                                                           Private Equity I
+    12-09-                                                 LLP, Amicus
+ 58 2020   mCaffeine            Personal Care  Mumbai      Capital Partners  Series B    3,000,000
+                                                           India Fund I and
+                                                           RP-SG Venture
+                                                           Fund 1
+ 59 09-09- Qshala               EduTech        Bangalore   Rainmatter        Angel       3,70,000
+    2020                                                   Capital
+                                                           Kalaari Capital
+    02-09-                                                 Partners,
+ 60 2020   Winzo                Online Gaming  New Delhi   IndigoEdge        Series B    1,55,00,000
+                                                           Management
+                                                           Consultancy
+                                               Newark,     Alpha Wave
+                                Video Customer Delaware,   Incubation,
+ 61 09-09- Hippo Video          Experience(CX) United      Exfinity Venture  Series A    45,00,000
+    2020                        Platform       States of   Partners and
+                                               Amercia     existing backers.
+
+ 62 07-09- Melorra              E-commerce     Bangalore   Shadow Holdings,  Debt        89,00,000
+    2020                                                   Lightbox.         Financing
+    07-09-                                                 Gaja Capital,
+ 63 2020   1mg                  E-commerce     Gurgaon     Tata Capital,     In Progress 10,00,00,000
+                                                           Partners Group
+ 64 31-08- mfine                HealthTech     Bangalore   Caretech Pte Inc  Series B    54,00,000
+    2020
+    31-08-                      Human                      Lightspeed India
+ 65 2020   Apna                 Resources      Bangalore   and Sequoia       Series A    80,00,000
+                                                           Capital India
+ 66 03-09- Railofy              Transportation Mumbai      Chiratae Ventures Seed        9,50,000
+    2020
+ 67 08-09- Cell Propulsion      Automobile     Bangalore   growX Ventures    pre-Series  NA
+    2020                                                   and Micelio       A
+ 68 15-08- Practo               HealthTech     Bangalore   A1A Company       Series F    3,20,00,000
+    2020
+    13-08-                                                 Prasid Uno Family
+ 69 2020   Medlife              E-commerce     Bangalore   Trust and SC                  23,000,000
+                                                           Credit Fund
+                                                           One97, Sabre
+    13-08-                                                 Partners Trust,
+ 70 2020   HungerBox            FoodTech       Bangalore   Pratithi          Series D1   15,60,000
+                                                           Investment Trust,
+                                                           and Srihari Kumar
+ 71 04-08- Dunzo                Hyper-local    Bangalore   Existing Backers  In Progress 3,00,00,000
+    2020                        Logistics
+                                                           Stanford Angels
+                                                           and Entrepreneurs
+    11-08-                                     Stanford,   (India), BEENEXT
+ 72 2020   Terra.do             EduTech        California, Emerging Asia,    Seed        14,00,000
+                                                           Rainmatter
+                                                           Capital
+
+ 73 12-08- Classplus            EduTech        Noida       Falcon Edge       In Progress 1,50,00,000
+    2020
+ 74 14-08- Niyo                 FinTech        Bangalore   Niyo Solutions                60,00,000
+    2020                                                   Inc.
+ 75 10-08- ZestMoney            FinTech        Bangalore   Primrose Hills                1,06,70,000
+    2020                                                   Ventures
+ 76 07-08- FreshToHome          E-commerce     Bangalore   Ascent Capital    Venture     1,62,00,000
+    2020
+ 77 13-08- Eduvanz              FinTech        Mumbai      Sequoia India,    Series A    50,00,000
+    2020                                                   Unitus
+ 78 03-08- CrowdPouch           FinTech        Bangalore   Elina Investments Angel       NA
+    2020                                                   Pvt. Ltd
+ 79 04-08- DrinkPrime           Water          Bangalore   Sequoia Surge, ON Pre-Series  28,80,000
+    2020                        Purification               Mauritius         A
+ 80 15-07- Flipkart             E-commerce     Bangalore   Walmart Inc       M&A         1,20,00,00,000
+    2020
+ 81 16-07- Vedantu              EduTech        Bangalore   Coatue Management Series D    100,000,000
+    2020
+ 82 16-07- Crio                 EduTech        Bangalore   021 Capital       pre-Series  9,34,160
+    2020                                                                     A
+                                                           Matrix India,Y
+                                                           Combinator,
+ 83 14-07- goDutch              FinTech        Mumbai      Global Founders   Seed        17,00,000
+    2020                                                   Capital, Soma
+                                                           Capital, and
+                                                           VentureSouq.
+    13-07-                      Airfare        Singapore   Recruit Co. Ltd.  pre-Series
+ 84 2020   Mystifly             Marketplace    and                           B           33,00,000
+                                               Bangalore
+    09-07-                      Gaming and                 Adar Poonawalla   Venture-
+ 85 2020   JetSynthesys         Entertainment  Pune        and Kris          Series      4,00,000
+                                                           Gopalakrishnan.   Unknown
+    10-07-                                                 Incubate Fund     pre-Series
+ 86 2020   gigIndia             Marketplace    Pune        India and Beyond  A           9,74,200
+                                                           Next Ventures
+ 87 15-07- PumPumPum            Automotive     Gurgaon     Early Adapters    Seed        2,92,800
+    2020                        Rental                     Syndicate
+    14-07-                                     New York    Raj Mishra,
+ 88 2020   FLYX                 OTT Player     and Delhi   founder of AIT    pre-Seed    2,00,000
+                                                           Global Inc
+    13-07- Open Appliances Pvt. Information                Unicorn India     Venture-
+ 89 2020   Ltd.                 Technology     Bangalore   Ventures          Series      5,00,000
+                                                                             Unknown
+ 90 18-06- Drishti Technologies Technology     Mumbai      Sozo Ventures     Series B    2,50,00,000
+    2020
+ 91 17-06- Stellaps             AgriTech       Bangalore   Stride Ventures   Debt        NA
+    2020                                                                     Financing
+    17-06-                      Industrial                 Venture Catalysts
+ 92 2020   Peppermint           Robotics       Mumbai      and Naveen        Seed        NA
+                                                           Kshatriya
+    16-06-                                                 Arkam Ventures    Pre-Series
+ 93 2020   Jai Kisan            Rural FinTech  Mumbai      and NABVENTURES   A           39,34,941
+                                                           Fund I
+                                                           Beyond Next
+    16-06-                                                 Ventures,
+ 94 2020   Biomoneta            BioTech        Bangalore   ArthaVida         Seed        NA
+                                                           Ventures and Dr.
+                                                           Aniruddha Malpani
+    15-06- Sai Estate
+ 95 2020   Management and       EdTech         Mumbai      Suniel Shetty     Angel       NA
+           Skills Institute
+    15-06- LetsTransport        Logistics                                    Venture -
+ 96 2020                        Solution       Bangalore   Stride Ventures   Series      13,11,647
+                                Provider                                     Unknown
+ 97 10-06- WayCool Foods        AgriTech       Chennai     Indusland Bank    Series C    55,00,000
+    2020
+                                                           Kris
+    11-06-                                                 Gopalakrishnan ¢
+ 98 2020   Myelin Foundry       Deep Tech AI   Bangalore   ¬ ¢s family     Seed        10,00,000
+                                                           office ¢ ¬ 
+                                                           Pratithi.
+ 99 10-06- Hapramp              Block Chain,   Gurugram    Anand Mahindra    Seed        10,00,000
+    2020                        Cryptocurrency
+                                                           Whiteboard
+                                                           Capital (Sandeep
+                                                           Tandon ¢ ¬ ¢s
+                                                           VC fund),
+                                                           FirstCheque,
+                                                           Artha India
+                                                           Ventures, Sweta
+                                                           Rau (Founder,
+                                Professional               White Ventures),
+100 21-05- leap.club            Network for    Gurugram    Amrish Rau (CEO   Pre Seed    3,40,000
+    2020                        Women                      Pinelabs, Founder
+                                                           Citrus Pay),
+                                                           Deepak Abbot
+                                                           (Former SVP,
+                                                           Paytm), and
+                                                           Harpreet Singh
+                                                           Grover (Co-
+                                                           founder, Co-
+                                                           Cubes) and
+                                                           others.
+                                                           Tencent, Ark
+                                                           Impact, KoKalyan
+                                                           Krishnamurthy of
+                                                           Flipkart, Sujeet
+                                                           Kumar of Udaan,
+                                                           Gaurav Munjal of
+                                                           Unacademy, Keshav
+    20-05-                                                 Sanghi of
+101 2020   Tring                Advertising    Mumbai      VentureWorks      Angel       NA
+                                                           India, Roman
+                                                           Saini of
+                                                           Unacademy, Hemesh
+                                                           Singh of
+                                                           Unacademy, and
+                                                           Sumit Jain of
+                                                           Opentalk amongst
+                                                           others.
+                                                           B Capital Group,
+                                                           Sequoia India,
+                                                           Partners of DST
+                                                           Global, Tencent,
+                                                           GGV, RTP Global,
+                                                           Hummingbird
+                                                           Ventures, Falcon
+    20-05-                      Utility                    Edge Capital,
+102 2020   Khatabook            Solutions      Bangalore   Rocketship.vc,    Series B    6,00,00,000
+                                Provider                   Unilever
+                                                           Ventures, Kevin
+                                                           Weil, Alexander
+                                                           Will, Kunal Shah,
+                                                           Kunal Bahl, and
+                                                           Rohit Bansal
+
+
+103 19-05- Vakilsearch          LegalTech      Chennai     Udaan co-founder, Series A    NA
+    2020                                                   Sujeet Kumar
+                                                           Fullerton
+                                                           Financial
+                                                           Holdings Pte Ltd
+    19-05-                                                 (FFH) and
+104 2020   Lendingkart          FinTech        Ahmedabad   Bertelsmann India Series D    4,20,00,000
+                                                           Investments,
+                                                           Sistema Asia Fund
+                                                           and India
+                                                           Quotient.
+    21-05- No Worry No Tension                             Amit Burman,      Pre Series
+105 2020   Healthcare (NWNT)    Healthcare     New Delhi   Chairman of Dabur A           NA
+                                                           India,
+                                                           RTP Global, lume
+                                                           Ventures, Sequoia
+106 05-05- Classplus            EduTech        Noida       Capital India's   Series A    90,00,000
+    2020                                                   Surge, Spiral
+                                                           Ventures, and
+                                                           Strive.
+107 11-05- Nykaa                E-commerce     Mumbai      Steadview Capital Series F    88,00,000
+    2020
+                                                           Lightspeed
+                                                           Venture Partners,
+                                                           along with the
+                                                           participation of
+    13-05-                                                 Moonstone
+108 2020   Magicpin             E-commerce     Gurugram    Investments,      Series C    40,00,000
+                                                           WaterBridge
+                                                           Venture, The
+                                                           Bunting Family
+                                                           Private Fund, and
+                                                           Srivatsan Rajan
+    18-05-                      Logistics                                    Venture -
+109 2020   LetsTransport        Solution       Bangalore   InnoVen Capital   Series      17,00,000
+                                Provider                                     Unknown
+110 09-04- Vedantu              EduTech        Bengaluru   Legend Capital    Series C1   1,25,60,000
+    2020
+                                                           Tencent, Ark
+                                                           Impact, Korea
+    06-04-                      Online Food                Investment
+111 2020   Swiggy               Delivery       Bengaluru   Partners, Samsung Series 1    43,000,000
+                                                           Ventures, and
+                                                           Mirae Asset
+                                                           Capital Markets
+                                                           Matrix Partners
+                                                           India, Falcon
+                                                           Edge Capital,
+112 08-04- Zupee                Gaming         Gurugram    WestCap Group,    Series A    80,00,000
+    2020                                                   Orios Venture
+                                                           Partners and
+                                                           Smile Group
+
+                                                           Sequoia Capital
+113 07-04- DeHaat               AgriTech       Patna       India, FMO,       Series A    1,20,00,000
+    2020                                                   Omnivore and
+                                                           AgFunder.
+114 15-04- BigBasket            E-commerce     Bengaluru   Alibaba Group     Debt        5,00,00,000
+    2020                                                                     Financing
+                                                           Accel, Zephyr
+115 08-04- Fingerlix            Food Delivery  Mumbai      Peacock, Swiggy,  Series C    18,00,000
+    2020                                                   and RB
+                                                           Investments
+116 31-03- Nykaa                E-commerce     Mumbai      Steadview Capital Series F    1,30,00,000
+    2020
+                                Digital                    Vertex Ventures
+    02-04-                      Reconcilation              Southeast Asia
+117 2020   Recko                and Financial  Bengaluru   and India and     Series A    60,00,000
+                                Services                   Prime Venture
+                                                           Partners
+118 04-03- Soxytoes             E-commerce     Noida       Angel Networks    Angel       NA
+    2020
+119 02-03- Chqbook.com          Finance        Gurugram    Aavishkaar        Series A    5,000,000
+    2020                                                   Capital
+                                                           Advent
+                                                           Management, A91
+120 06-03- Paperboat            E-commerce     Bengaluru   Emerging Fund,    Debt        40,00,000
+    2020                                                   and Trifecta      Financing
+                                                           Venture.
+
+121 13-03- CollegeKhabri        EduTech        Bhopal      Vdiec Global      Angel       NA
+    2020
+                                                           Y Combinator,
+                                                           Venture Highway,
+122 12-03- FamPay               Finance        Bengaluru   Sequoia India,    Seed        47,00,000
+    2020                                                   and GFC (Global
+                                                           Founders
+                                                           Capital).
+123 12-03- MultiLiving          Real Estate    Mumbai      Lodha Ventures    Series A    60,00,000
+    2020
+124 12-03- Ola Electric         Transport      Bengaluru   Pawan Munjal      Series B    10,00,000
+    2020                                                   Family Trust
+125 12-03- Mera Kisan           Food           Pune        Ajinkya Rahane    Private     NA
+    2020                        Production                                   Equity
+126 03-02- 1mg                  E-commerce     Gurugram    Bill & Melinda    Venture     1,00,00,000
+    2020                                                   Gates Foundation  Series
+127 03-02- RACEnergy            Transportation Hyderabad   GrowX Ventures    Seed        NA
+    2020
+128 31-01- Adonmo               Advertising    Hyderabad   BAce Capital      Pre-Series  30,00,000
+    2020                                                                     A
+129 31-01- DoubtNut             Education      Gurugram    Tencent Holdings  Series A    1,50,00,000
+    2020
+                                                           Frontline
+130 30-01- MultiplyMyLeads      Real Estate    New Delhi   Strategy Funds    Venture     NA
+    2020                                                   and SucSEED       Series
+                                                           Venture Partners.
+    03-02-                                                 Reliance          Venture
+131 2020   Embibe               EduTech        Mumbai      Industries        Series      1,26,25,020
+                                                           Limited (RIL)
+132 10-02- FirstCry             E-commerce     Pune        Softbank Vision   Series E    29,60,00,000
+    2020                                                   Fund
+133 10-02- Pepperfry            E-commerce     Mumbai      Pidilite          Series F    3,70,00,000
+    2020                                                   Industries
+    18-02-                                                 IAN Fund and Al
+134 2020   MaxWholesale         E-commerce     New Delhi   Falaj Investment  Series A    30,00,000
+                                                           Co
+    06-02-                      Information                PayU and Fosun RZ
+135 2020   Dot                  Technology and Gurgaon     Capital           Seed        80,00,000
+                                Services
+136 05-02- AlphaVector          Transport      Mumbai      Avaana Capital    Venture     NA
+    2020                                                   and Titan Capital Series
+    05-02-                                                 Incubate Fund
+137 2020   WizKlub              EduTech        Bangalore   India and Insitor Seed        10,00,000
+                                                           Impact Asia Fund
+138 14-02- Friyey               Co-working     Pune        Tarun Bhalla      Seed        NA
+    2020                        Spaces
+139 14-02- Simsim               E-commerce     New Delhi   Accel Partners    Series B    80,00,000
+    2020
+    11-02-                      Intelligent    San         Eight Roads
+140 2020   Moengage             Marketing      Francisco/  Ventures          Series C    2,50,00,000
+                                Cloud          Bangalore
+                                                           Think Investment,
+                                                           Tiger Global,
+                                                           SAIF Partners,
+141 11-02- Chaayos              Cafe           New Delhi   Integrated        Series B    2,15,00,000
+    2020                                                   Capital and
+                                                           Neeraj Arora and
+                                                           Innoven Capital
+
+                                                           General Atlantic,
+142 19-02- Unacademy            EduTech        Bangalore   Sequoia Capital   Series D    11,00,00,000
+    2020                                                   India, and
+                                                           Facebook
+    09-01-                                                 Tiger Global      Private
+143 2020   BYJU'S               E-Tech         Bengaluru   Management        Equity      20,00,00,000
+                                                                             Round
+144 13-01- Shuttl               Transportation Gurgaon     Susquehanna       Series C    80,48,394
+    2020                                                   Growth Equity
+145 09-01- Mamaearth            E-commerce     Bengaluru   Sequoia Capital   Series B    1,83,58,860
+    2020                                                   India
+146 02-01- https://             FinTech        New Delhi   Vinod Khatumal    Pre-series  30,00,000
+    2020   www.wealthbucket.in/                                              A
+147 02-01- Fashor               Fashion and    Mumbai      Sprout Venture    Seed Round  18,00,000
+    2020                        Apparel                    Partners
+148 13-01- Pando                Logistics      Chennai     Chiratae Ventures Series A    90,00,000
+    2020
+    10-01-                                                                   Private
+149 2020   Zomato               Hospitality    Gurgaon     Ant Financial     Equity      15,00,00,000
+                                                                             Round
+    12-12-                                                 Sathguru
+150 2019   Ecozen               Technology     Pune        Catalyzer         Series A    60,00,000
+                                                           Advisors
+151 06-12- CarDekho             E-Commerce     Gurgaon     Ping An Global    Series D    7,00,00,000
+    2019                                                   Voyager Fund
+152 03-12- Dhruva Space         Aerospace      Bengaluru   Mumbai Angels,    Seed        5,00,00,000
+    2019                                                   Ravikanth Reddy
+    13-12-                                                 SAIF Partners,
+153 2019   Rivigo               Technology     Gurgaon     Spring Canter     Series F    2,00,00,000
+                                                           Investment Ltd.
+    17-12-                      B2B-focused                Paytm, NPTK,
+154 2019   Healthians           foodtech       Bengaluru   Sabre Partners    Series C    1,20,00,000
+                                startup                    and Neoplux
+155 16-12- Licious              E-Commerce     Bengaluru   Vertex Growth     Series E    3,00,00,000
+    2019                                                   Fund
+156 16-12- InCred               Finance        Mumbai                        Debt        59,00,000
+    2019                                                                     Funding
+157 14-12- Trell                Video          Bengaluru   Ruizheng          Seed Round  20,00,000
+    2019                                                   Investment
+    11-12-                                                 Manipal Education
+158 2019   Rein Games           Gaming         Noida       and Medical Group Seed Round  5,00,00,000
+                                                           (MEMG)
+159 20-12- Lenskart.com         E-Commerce     Faridabad   SoftBank Vision   Series G    23,10,00,000
+    2019                                                   Fund
+160 13-11- Freshworks           Software       San         Sequoia,          Series H    15,00,00,000
+    2019                                       Francisco   CapitalG, Accel
+    14-11-                      Health and                 Sauce.vc,
+161 2019   Misters              wellness       Gurgaon     Rainforest        Series B    4,86,000
+                                                           Ventures
+                                                           Prime Venture
+                                                           Partners,
+    13-11- Sunstone Eduversity                             LetsVenture, PS1
+162 2019   Pvt. Ltd             Education      Gurgaon     Venture and       Seed        15,00,000
+                                                           GlobalLogic co-
+                                                           founder Rajul
+                                                           Garg
+163 17-11- Burger Singh         Food and       Gurgaon     RB Investments    Venture     undisclosed
+    2019                        Beverage
+    18-11-                      Health and                 DG Daiwa
+164 2019   Healthians           Wellness       Gurgaon     Ventures, DG      Series B    1,20,00,000
+                                                           Incubation
+165 15-11- Ninjacart            B2B Marketing  Bengaluru   Trifecta Capital  Debt        2,60,00,000
+    2019                                                   Advisors          Funding
+166 20-11- Aye Finance          FinTech        Gurgaon     FinTech           Debt        1,74,11,265
+    2019                                                                     Funding
+167 12-11- SuperGaming          Video Games    Pune        Dream Incubator   Seed        13,00,000
+    2019                                                                     Funding
+    20-11-                                                 Altimeter
+168 2019   Clumio               SaaS           San Jose,   Capital, Sutter   Series C    13,50,00,000
+                                                           Hill Ventures
+169 11-11- eBikeGo              Last Mile      Amritsar    Startup Buddy     Seed        3,00,000
+    2019                        Transportation
+170 19-11- Digital Mall Asia    E-Commerce     Delhi       Amour             Seed        22,00,00,000
+    2019                                                   Infrastructure    Funding
+                                                           Ackermans & van
+                                                           Haaren,
+171 18-11- Medikabazaar         Healthcare     Mumbai      HealthQuad,       Series B    1,58,00,000
+    2019                                                   Rebright
+                                                           Partners, Toppan
+                                                           Printing
+                                                           Matrix Partners,
+172 15-11- Vogo Automotive      Last Mile      Kormangala  Stellaris Venture Series B    28,30,00,000
+    2019                        Transportation             Partners, Kalaari
+                                                           Capital
+173 19-11- Furtados School of   Education      Tulangan    IAN Fund and DSG              20,00,00,000
+    2019   Music                                           Consumer Partners
+174 25-11- Paytm                FinTech        Noida       Vijay Shekhar     Funding     1,00,00,00,000
+    2019                                                   Sharma            Round
+175 04-10- Dunzo                Customer       Bengaluru   Lightbox          Series D    4,50,00,000
+    2019                        Service
+    02-10-                                                 Altimeter
+176 2019   Udaan                B2B            Bengaluru   Capital, DST      Series D    58,50,00,000
+                                                           Global
+177 21-10- The Man Company      Consumer Goods Gurgaon     Ayushmann Khurana Corporate   unknown
+    2019                                                                     Round
+    05-09-                                                 Matrix Partners   Maiden
+178 2019   FPL Technologies     FinTech        Pune        India, Sequoia    Round       45,00,000
+                                                           India
+179 04-09- Cashflo              FinTech        Mumbai      SAIF Partners     Series A    33,00,000
+    2019
+    04-09-                      Advertising,               TIW Private       Private
+180 2019   Digital F5           Marketing      Mumbai      Equity            Equity      60,00,000
+                                                                             Round
+181 04-09- 3rdFlix              SaaS           Hyderabad   Exfinity Venture  pre-series  50,00,000
+    2019                                                   Partners          A
+182 04-09- 75F                  IoT            Burnsville  Breakthrough      Series A    1,80,00,000
+    2019                                                   Energy Ventures
+183 04-09- Myelin Foundry       Information    Bengaluru   Endiya Partners   Seed        10,00,000
+    2019                        Technology
+184 04-09- Atomberg Technology  Consumer       Mumbai      A91 Partners      Series A    1,00,00,000
+    2019                        Technology
+    04-09-                      Health and                 Bennett Coleman
+185 2019   GOQii                Wellness       Menlo Park  and Company Ltd   Series C    45,00,00,000
+                                                           (BCCL)
+186 03-09- Vyapar App           Accounting     Bengaluru   India Quotient,   Series A    50,00,000
+    2019                                                   Axilor Ventures
+187
+    01-08-                                                 SC GG India
+188 2019   CarDekho             E-Commerce     Gurgaon     Mobility Holdings Series C    2,00,00,000
+                                                           LLC
+189 01-08- Progcap              Finance        New Delhi   Sequoia India     Series A    50,00,000
+    2019
+    01-08-                                                                   Seed
+190 2019   MyPetrolPump         Retail         Bengaluru                     Funding     16,00,000
+                                                                             Round
+191 01-08- Alteria Capital      Finance        Mumbai      Azim Premji,      Single      14,00,00,000
+    2019                                                   Binny Bansal      Venture
+192 01-08- Pine Labs            Information    Noida       Pine Labs Pte Ltd Corporate   3,80,80,000
+    2019                        Technology                                   Round
+193 12-08- Meesho               E-Commerce     Bengaluru   Naspers           Series D    12,50,00,000
+    2019
+194 13-08- Cars24               E-Commerce     Gurugram    MS Dhoni          Series D    1,10,00,000
+    2019
+    13-08-                      Customer                   March Capital
+195 2019   Uniphore             Service        Palo Alto   Partners          Series C    5,10,00,000
+                                Platform
+196 23-08- Zendrive             Automotive     San         XL Innovate       Series B    3,70,00,000
+    2019                                       Francisco
+                                                           Rashmi Daga
+                                                           (founder,
+                                                           FreshMenu),
+    23-08-                                                 Raveen Sastry
+197 2019   Lo! Foods            Consumer Goods Bengaluru   (co-founder,      Seed Round  5,00,000
+                                                           Myntra) and
+                                                           Mitesh Shah
+                                                           (finance chief,
+                                                           BookMyShow)
+198 23-08- Tala                 FinTech        Santa       RPS Ventures      Series D    11,00,00,000
+    2019                                       Monica
+199 22-08- INDwealth            FinTech        Gurgaon     Tiger Global      Venture     1,50,00,000
+    2019                                                   Management        Round
+    21-08-                      Food and                   One97
+200 2019   HungerBox            Beverage       Bengaluru   Communications    Series C    65,90,000
+                                                           Ltd.
+201 23-08- AdmitKard            EdTech         Noida       Growth DNA        Seed Round  10,00,000
+    2019
+202 19-08- Mishry Reviews       Services       Gurgaon     Vir Sanghvi       Series A    Undisclosed
+    2019
+203 19-08- Grofers              E-Commerce     Gurgaon     Softbank Vision   Series F    7,00,00,000
+    2019                                                   Fund
+204 27-08- Rapido Bike Taxi     Transportation Bengaluru   Westbridge        Series B    3,90,00,00,000
+    2019                                                   Capital
+205 02-07- RenewBuy             Finance        Gurgaon     Lok Capital, IIFL Series B    1,90,00,000
+    2019                                                   Wealth
+206 02-07- Atlan                Information    Singapore   WaterBridge       Pre-Series  25,00,000
+    2019                        Technology                 Ventures          A
+207 01-07- WizCounsel           Compliance     New Delhi   Kapil Dev         Angel       1,45,000
+    2019
+                                                           DIG Investment
+    03-07-                                                 Ab, Deshe
+208 2019   Ola Cabs             Transport      Kormangala  Holdings, Samih   Series J    10,00,000
+                                                           Toukan and Hussam
+                                                           Khoury
+209 01-07- Uniphore             Artificial     Taramani    March Capital     Series C    3,80,80,000
+    2019                        Intelligence               Partners
+210 04-07- Daalchini            Food and       New Delhi   Artha Venture     Seed Round  5,00,000
+    2019   Technologies         Beverage
+    10-07-                                                 Qatar Investment  Private
+211 2019   BYJU'S               EdTech         Bengaluru   Authority         Equity      15,00,00,000
+                                                                             Round
+                                                           Composite Capital
+    11-07-                                                 Management,
+212 2019   Moglix               E-Commerce     Singapore   Sequoia Capital   Series D    6,00,00,000
+                                                           India, Tiger
+                                                           Global Management
+213 10-07- Ezyhaul              Tech           Singapore   Undisclosed       Series B    1,60,00,000
+    2019
+214 10-07- Indus OS             Tech           Andheri     Ventureast        Series B    57,50,000
+    2019
+215 10-07- HealthAssure         Health Care    Mumbai      Blume Ventures    Series A    25,00,000
+    2019
+216 09-07- House of Msasaba     Luxury Label   Mumbai      Binny Bansal      Series A    10,00,000
+    2019
+217 08-07- Board Infinity       EdTech         Chembur     Multiple Angel    Angel Round 3,19,605
+    2019                                                   Investors
+218 05-06- NoBroker             E-Commerce     Bengaluru   General Atlantic  Series C    5,10,00,000
+    2019
+219 04-06- Bira91               Food and       New Delhi   Anicut Capital    Debt        1,00,00,000
+    2019                        Beverage                                     Funding
+    03-06-                                                 Goldman Sachs,
+220 2019   FabHotels            E-Commerce     Gurgaon     Accel Partners                48,89,975.54
+                                                           and Qualcomm
+221 03-06- Avail Finance        Finance        Bengaluru   Matrix Partners   Series A    90,00,000
+    2019
+222 04-06- BharatPe             Finance        New Delhi   Insight Partners  Series B    7,50,00,000
+    2019
+                                                           Triton Investment
+                                Waste                      Advisors,
+223 04-06- Recykal              Management     Hyderabad   Pidilite          pre-Series  2,60,00,000
+    2019                        Service                    Industries        A
+                                                           director Ajay
+                                                           Parekh
+224 03-06- Agara Labs           Deep-Tech      Bengaluru   Blume Ventures    pre-Series  25,00,000
+    2019                                                   and RTP Global    A
+                                                           Shell Foundation,
+                                                           DILA CAPITAL,
+                                                           Engie RDE Fund,
+                                                           EcoEnterprise
+    06-06-                                                 Fund, EDFIMC
+225 2019   Sistema.bio          Agriculture    Nairobi     (ElectriFI),                  27,39,034.68
+                                                           Endeavor Catalyst
+                                                           Fund, CoCapital,
+                                                           Triodos, Alpha
+                                                           Mundi, and
+                                                           Lendahand
+226 06-06- Chakr Innovation     Energy         New Delhi   IAN Fund          Series A    2,60,00,000
+    2019
+227 06-06- Pratilipi            Digital Media  Bengaluru   Qiming Venture    Series B    1,51,09,500.00
+    2019                                                   Partners
+228 10-06- Bolo App             Digital Media  Bengaluru   Nexus Venture     Seed        4,30,200
+    2019                                                   Partners          Funding
+229 10-06- OkCredit             FinTech        Haryana     Tiger Global      Series A    1,55,00,000
+    2019                                                   Management
+230 06-06- Biz2Credit           FinTech        New York    WestBridge        Series B    5,20,00,000
+    2019                                                   Capital
+231 08-06- Vogo Automotive Pvt. Transportation Karnataka   Alteria Capital   Debt        35,84,000
+    2019   Ltd.                                                              Funding
+232 04-06- Leegality            Services       Mumbai/     Mumbai Angels     Series A    34,00,000
+    2019                                       Bengaluru
+233 06-05- Ola Electric         Transport      Bengaluru   Tata Sons         Series A
+    2019
+    06-05-                      Waste                                        Venture -
+234 2019   Saahas Zero Waste    Management     Bengaluru   C4D Partners      Series      8,68,600
+                                Service                                      Unknown
+                                                           Indian Angel
+                                                           Network and other
+                                                           angel investors,
+                                                           Innov8 founder
+                                                           Ritesh Malik,
+235 05-05- StyleDotMe           E-commerce     Delhi       Josh Talks        Bridge      undisclosed
+    2019                                                   founders Supriya  Round
+                                                           Paul and Shobha
+                                                           Banga, and former
+                                                           Hero Corporate
+                                                           president Rohit
+                                                           Chanana
+                                                           Goldman Sachs
+                                                           Investment
+                                                           Partners and
+                                                           Silicon Valley-
+                                                           based Accel,
+    01-05-                                                 Wellington,
+236 2019   BlackBuck            Transport      Bengaluru   Sequoia Capital,  Series D    15,00,00,000
+                                                           B Capital,
+                                                           LightStreet,
+                                                           Sands Capital and
+                                                           International
+                                                           Finance
+                                                           Corporation,
+237 02-05- Zenoti               Saas           Hyderabad   Tiger Global      Series C    5,00,00,000
+    2019                                                   Management
+238 28-05- Ather Energy         Automobile     Bengaluru   Sachin Bansal     Series C    5,10,00,000
+    2019
+239 28-05- FreshVnF             Agtech         Mumbai      Equanimity        Seed Round  14,00,00,000
+    2019                                                   Ventures
+    30-05-                                                 Korea Investment
+240 2019   GlowRoad             E-commerce     Bengaluru   Partners, Vertex  Series B    1,15,00,000
+                                                           Ventures
+241 31-05- Bira91               Food and       New Delhi   Sixth Sense       Series B    56,00,000
+    2019                        Beverage                   Ventures
+242 16-04- Kuvera               Finance        Bengaluru   Eight Roads       Series A
+    2019
+243 12-04- Medlife              E-commerce     Bengaluru   Prasid Uno Family Private     1,70,00,000
+    2019                                                   Trust             Equity
+                                                           Unilever, Beehive
+                                                           Capital Advisor,
+244 10-04- Kabadiwala           E-commerce     Bhopal      ABCOM             Private     4,30,665
+    2019                                                   Investments,      Equity
+                                                           Parekh Marine
+                                                           Transport,
+                                                           Orchid India,
+                                                           Hornbill Orchid
+                                                           India Fund,
+245 13-04- Tripoto              Social Media   New Delhi   Chiratae Ventures Series B    35,91,375
+    2019                                                   (formerly IDG
+                                                           Ventures), 3one4
+                                                           Capital, Lasmer
+                                                           NV
+246 12-04- Azah                 Health and     Gurugram    Unnamed angel     Seed        2,00,000
+    2019                        Wellness                   investors         Funding
+247 11-04- Setu                 Fintech        Bengaluru   Lightspeed India  Seed        35,00,000
+    2019                                                   Partners          Funding
+    10-04-                                                                   Debt and
+248 2019   Toppr                Edtech         Mumbai      Milestone         Preference  63,20,820
+                                                                             capital
+249 10-04- Craftsvilla          E-commerce     Mumbai      Supera Pte Ltd    Inhouse     24,43,495
+    2019                                                                     Funding
+250 10-04- Unacademy            Edtech         Bengaluru   Kalyan            Seed/ Angel 3,07,000
+    2019                                                   Krishnamurthy     Funding
+                                                           Sequoia India,
+251 11-04- CleverTap            SaaS           Mumbai      Tiger Global      Series B    2,60,00,000
+    2019                                                   Management, Accel
+                                                           Partners
+    19-04-                                     Bengaluru   Sixth Sense
+252 2019   My Healthcare        E-commerce     and         Ventures          Series A    30,00,000
+                                               Gurugram
+                                                           BAC Acquisitions,
+    19-04-                                                 Unifi AIF, BRD
+253 2019   KrazyBee             E-commerce     Bengaluru   Securities,       Debt        1,43,42,000
+                                                           Northern R
+                                                           Capital
+254 17-04- Shuttl               Transportation Gurugram    New Atlantic      Venture     50,00,000
+    2019                                                   Ventures          Round
+255 17-04- Increff              Technology     Bengaluru   021 Capita, Binny Series A    30,00,000
+    2019                                                   Bansal
+    01-02-                                                 India Quotient    Pre Series
+256 2019   FleetX               AI             Gurgaon     and LetsVenture ¢ A
+                                                           ¬ ¢s Angel Fund
+                                                           Sequoia Capital
+                                                           and Temasek
+257 08-02- Zilingo              Ecommerce      India/      Holdings, EDBI,   Series D    22,60,00,000
+    2019                                       Singapore   Burda Principal
+                                                           Investments, and
+                                                           Sofina
+                                                           LetsVenture,
+                                                           PitchRight
+                                                           Venture,
+258 13-02- NanoClean Global     Nanotechnology New Delhi   91SpringBoard, AL Series A    6,00,000
+    2019                                                   Nour
+                                                           International
+                                                           Holdings and Mark
+                                                           V Investments
+259 14-02- OyoRooms             Hospitality    Gurgaon     DiDi Chuxing      Equity      10,00,00,000
+    2018
+                                                           Sequoia India,
+                                                           Hillhouse
+    03-01-                                                 Capital, Alphabet
+260 2019   CarDekho             Automobile     Jaipur      ¢ ¬ ¢s growth   Series C
+                                                           investment arm
+                                                           Capital G and
+                                                           Axis Bank
+                                                           Iron Pillar,
+    04-01- Vyome Therapeutics   Health and                 Perceptive
+261 2019   Inc.                 Wellness       India/US    Advisors, Romulus Series D    2,20,00,000
+                                                           Capital and
+                                                           Kalaari Capital
+    04-01- Samunnati Financial                             MASSIF, a Dutch   Debt-
+262 2019   Intermediation &     Finance        Chennai     government fund   Funding     50,00,000
+           Services Pvt. Ltd
+263 04-12- Manch                Social Media   Delhi       Stellaris Venture Seed        7,00,000
+    2018                                                   Partners          Funding
+    01-12- UrbanClap            Services                   Steadview Capital
+264 2018   Technologies Pvt.    Platform       New Delhi   and Vy Capital.   Series D
+           Ltd
+265 02-12- Guiddoo              Travel Tech    Mumbai      Individual        Pre-Series  8,00,000
+    2018                                                   Investors         A
+266 02-12- Career Anna          Online         Gurugram    Individual        Pre-Series  5,72,000
+    2018                        Education                  Investors         A
+267 04-12- Nagpur Wholesale     Online         Nagpur      Omphalos Ventures Seed        1,43,000
+    2018                        Marketplace                India LLP         Funding
+                                                           Info Edge, AET
+                                                           Fund, Akatsuki
+    06-12-                                                 and Incubate Fund Seed
+268 2018   ShopKirana           B2B            Indore      from Japan and    Funding     20,00,000
+                                                           Better Capital
+                                                           AngelList
+                                                           syndicate.
+                                                           Venture Highway,
+    06-12-                      SaaS,                      GREE Ventures,
+269 2018   BuildSupply          Ecommerce      Gurugram    Space Matrix,     Series A    35,00,000
+                                                           Individual
+                                                           Investors
+270 01-11- GoDesi               Food and       Bengaluru   Lead Angels       Seed/ Angel
+    2018                        Beverage                   Network           Funding
+                                                           Norwest Venture
+                                                           Partners, CDC
+                                                           Group, the UK ¢
+271 03-11- Veritas Finance Ltd. NBFC           Chennai     ¬ ¢s            Series D    2,77,99,000
+    2018                                                   Development
+                                                           Finance
+                                                           Institution and P
+                                                           Surendra Pai
+    06-11-                                                 Shunwei Capital,
+272 2018   Meesho               Ecommerce      Bengaluru   DST Partners and  Series C    5,00,00,000
+                                                           RPS Ventures
+273 08-11- Mobile Premier       Gaming         Bengaluru   Undisclosed       Series A    5,00,000
+    2018   League
+274 08-11- A&R Bon Vivants      Food           Jaipur      RB Investments,   Equity      10,00,000
+    2018                                                   Singapore
+275 12-11- Blackbuck            Food Tech      New York,   Tiger Global      Series A    10,00,000
+    2018                                       Bengaluru
+276 12-11- MilkBAsket           Food           New Delhi   Mayfield Fund     Series B    13,00,000
+    2018
+277 13-11- DriveU               Transport      Bengaluru   Stevens Creek     Mezzanine   10,00,000
+    2018                                                   Ventures
+278 14-11- CleanseCar           Services       Bengaluru   Venture Catalysts Seed/ Angel 5,00,000
+    2018                                                                     Funding
+279 19-11- Automation Anywhere  Automation     California  SoftBank Vision   Series B    30,00,00,000
+    2018                                                   Fund
+                                                           Sistema Asia
+                                                           Fund, VC Samsung
+                                                           NEXT, Chiratae
+280 20-11- HealthifyMe          Health and     Bengaluru   Ventures,         Series B    60,00,000
+    2018                        Wellness                   Inventus Capital, (Extension)
+                                                           Blume Ventures
+                                                           and Innoven
+                                                           Capital.
+281 21-11- Genius Corner        Education      Noida       Individual        Seed        2,78,000
+    2018                                                   investors         Funding
+                                                           Teachers
+    22-11- Aavishkaar-                                     Insurance and     Equity
+282 2018   Intellecap Group     Investment     Mumbai      Annuity           Based       3,10,00,000
+                                                           Association       Funding
+                                                           (TIAA)
+283 22-11- Skillbox             Social Network Gurugram    Individual        Seed        Undisclosed
+    2018                                                   investors         Funding
+                                                           Stellaris Venture
+                                                           Partners and
+                                                           Kalaari Capital,
+                                                           Rajan Anandan
+284 23-11- Signzy               Financial Tech Mumbai/     from Google,      Series A    34,00,000
+    2018                                       Bengaluru   Dilip Khandwelwal
+                                                           from SAP Labs
+                                                           India, and Amrish
+                                                           Rau from PayU
+                                                           India
+                                                           Lakestar and
+285 24-11- Engineer.ai          Software       India/US    Jungle Ventures,  Series A    2,95,00,000
+    2018                                                   Softbank ¢ ¬ ¢s
+                                                           DeepCore.
+    25-11-                                                 Paragon Partners, Private
+286 2018   InCred Finance       Finance        India       Individual        Equity      4,20,00,000
+                                                           Investors
+287 25-11- Roposo               Social Media   Delhi       Bertelsmann India Series B    17,00,000
+    2018                                                   Investments
+288 01-10- Northmist            Fashion        Delhi       Prashant Jaiswal  Seed/ Angel N/A
+    2018                                                                     Funding
+                                                           Cooperative
+    02-10- Origo Commodities                               Oikocredit,       Seed/ Angel
+289 2018   India Pvt. Ltd       Logistics      Hyderabad   Caspian and       Funding     1,10,00,000
+                                                           Hivos-Triodos
+                                                           Fund
+290 04-10- Grover Zampa         Food           Mumbai      Ravi Viswanathan  Private     82,00,000
+    2018                                                                     Equity
+291 05-10- Droom                Automobile     Gurgaon     ZigExN            Series E    30,00,000
+    2018
+292 11-10- Innov8               Real Estate    New Delhi   Credence Family   Pre-Series  40,00,000
+    2018                                                   Office            A
+293 12-10- Blackbuck            Logistics Tech Bengaluru   Sequoia Capital   Private     1,46,80,000
+    2018                                                   India             Funding
+294 12-10- LetsTransport        Logistics Tech Bengaluru   Fosun             Series C    1,20,00,000
+    2018                                                   International
+                                                           Sistema Asia
+295 01-09- Netmeds              Consumer       Chennai     Fund, Sistema     Private     3,50,00,000
+    2018                        Internet                   JSFC and Tanncam  Equity
+                                                           Investment
+                                                           DST Global and
+    03-09-                                                 Lightspeed        Private
+296 2018   Udaan                B2B Platform   Bengaluru   Venture Partners  Equity      22,50,00,000
+                                                           ¢ ¬ ¢ global
+                                                           fund.
+297 03-09- Daily hunt           Consumer       Bengaluru   Falcon Edge       Private     63,90,000
+    2018                        Internet                                     Equity
+    04-09-                                                                   Seed /
+298 2018   3HCare               Healthcare     Delhi       N/A               Angel       10,00,000
+                                                                             Funding
+                                                           Korea Investment
+                                                           Partners (KIP),
+299 04-09- HappyGoEasy          Consumer       Gurugram    Samsung and       Private     N/A
+    2018                        Internet                   China-based CITIC Equity
+                                                           Capital and
+                                                           others
+300 05-09- Nykaa                Consumer       Mumbai      Lighthouse        Private     15,72,00,000
+    2018                        Internet                                     Equity
+301 05-09- Mad Street Den       Technology     Chennai     KDDI             Private     N/A
+    2018                                                                     Equity
+                                                           Tencent, Kalaari
+                                                           Capital and
+302 06-09- Dream11              Consumer       Mumbai      Private equity    Private     10,00,00,000
+    2018                        Internet                   firm Multiples    Equity
+                                                           Alternate Asset
+                                                           Management
+303 10-09- MamaEarth            Healthcare     Gurugram    Stellaris         Private     40,00,000
+    2018                                                   Ventures & Others Equity
+                                                           CLP Holdings
+304 11-09- AutoGrid             Technology     Bengaluru   Group, Innogy,   Private     3,20,00,000
+    2018                                                   rstead, and       Equity
+                                                           Tenaska
+305 11-09- Pharmeasy            Consumer       Mumbai      InnoVen Capital   Debt        55,00,000
+    2018                        Internet                                     Funding
+    11-09-                                                 Shunwei           Private
+306 2018   Upwards              Fin-Tech       Mumbai      Capital,Quotient, Equity      50,00,000
+                                                           Mayfield & Others
+                                                           Vertex Ventures
+                                                           Southeast Asia
+                                                           (SEA) and India
+    12-09-                                                 and Sistema Asia  Private
+307 2018   Kissht               Fin-Tech       Mumbai      Fund, Fosun RZ    Equity      3,00,00,000
+                                                           Capital,
+                                                           Ventureast, and
+                                                           Endiya Partners.
+
+308
+                                                           Farm To Fork,
+                                                           Arts Alliance,
+    01-08-                                                 The Syndicate     Seed/ Angel
+309 2018   dishq                Food-Tech      Bengaluru   Fund, Sven        Funding     4,00,000
+                                                           Hensen, Zeroth
+                                                           and Artesian
+                                                           Venture Partners
+    01-08-                                                 Axilor, Sprout    Seed/ Angel
+310 2018   HealthFin            Finance        Pune        Venture Partners  Funding     N/A
+                                                           and others
+    02-08-                      Consumer                   Xiaomi and        Private
+311 2018   Samosa Labs          Internet       Hyderabad   Sequoia Capital   Equity      70,00,000
+                                                           India
+312 03-08- ZiffyHomes           Consumer       Gurugram    Y Combinator      Private     1,20,000
+    2018                        Internet                                     Equity
+313 07-08- My OmNamo            Consumer       Mumbai      N/A               Seed/ Angel 10,00,000
+    2018                        Internet                                     Funding
+314 07-08- ShopX                Consumer       Bengaluru   Fung Strategic    Private     3,50,00,000
+    2018                        Internet                   Holdings          Equity
+315 07-08- MakeMyTrip           Consumer       Gurugram    MakeMyTrip        Private     1,00,00,000
+    2018                        Internet                   Limited           Equity
+316 08-08- Hansel io            Consumer       Bengaluru   Vertex Ventures   Seed/ Angel 40,00,000
+    2018                        Internet                                     Funding
+                                                           Sequoia Capital
+317 08-08- Metro Bikes          Consumer       Bengaluru   India Advisors,   Private     1,22,00,000
+    2018                        Internet                   Accel Partners    Equity
+                                                           and G Raghunandan
+318 08-08- Phone Pe             Consumer       Bengaluru   Flipkart          Private     6,60,00,000
+    2018                        Internet                                     Equity
+                                                           Nexus Venture
+319 09-08- quizizz              Ed-Tech        Bengaluru   Partners, Prime   Seed/ Angel 30,00,000
+    2018                                                   Venture Partners  Funding
+                                                           and Others
+                                                           AJ Ventures and
+                                                           Jain
+320 09-08- Happy EMI            Fin-Tech       Bengaluru   International     Seed/ Angel 10,00,000
+    2018                                                   Trade             Funding
+                                                           Organisation
+                                                           (JITO)
+    13-08-                      Consumer                   Ventureast, Orios Seed/ Angel
+321 2018   Inthree              Internet       Chennai     Venture Partners  Funding     40,00,000
+                                                           and the IAN Fund
+                                                           Nexus Venture
+                                                           Partners, MGV,
+    13-08-                                                 Liquid 2          Private
+322 2018   Observe AI           Technology     Bengaluru   Ventures, Hack    Equity      80,00,000
+                                                           VC, Emergent
+                                                           Ventures and Y
+                                                           Combinator
+323 16-08- Enakshi              Consumer       Ahemadabad  N/A               Seed/ Angel 1,14,811
+    2018                        Internet                                     Funding
+324 17-08- EazyDiner            Consumer       Gurugram    Denlow Investment Private     58,50,000
+    2018                        Internet                   Trust and Beenext Equity
+    20-08-                                                                   Seed /
+325 2018   Finzy                Finance        Bengaluru   N/A               Angel       10,00,000
+                                                                             Funding
+326 20-08- RawPressery          Consumer       Mumbai      Alteria Capital   Debt        48,00,000
+    2018                        Internet                                     Funding
+327 22-08- Pi Ventures          Technology     Bengaluru   CDC Group plc    Private     60,00,000
+    2018                                                                     Equity
+                                                           Hyundai,
+                                                           Edelweiss and
+328 22-08- Revv                 Consumer       Gurugram    Beenext, Dream    Private     1,42,70,000
+    2018                        Internet                   Incubator, Sunjay Equity
+                                                           Kapoor and Telama
+                                                           Investment
+                                                           Xiaomi,PayU,
+329 26-08- ZestMoney            Consumer       Bengaluru   Ribbit Capital    Private     1,34,00,000
+    2018                        Internet                   and Omidyar       Equity
+                                                           Network
+                                                           Saama Capital,
+330 26-08- Shubh Loans          Fin-Tech       Bengaluru   SRI Capital,      Private     42,00,000
+    2018                                                   Beenext, and      Equity
+                                                           Pravega Ventures
+                                                           Nexus Venture
+331 27-08- MyUpchar             Healthcare     Delhi       Partners, Omidyar Private     50,00,000
+    2018                                                   Network and       Equity
+                                                           Shunwei Capital
+    28-08-                                                 Accel (formerly   Private
+332 2018   Narvar               IT             Bengaluru   known as Accel    Equity      30,00,000
+                                                           Partners)
+333 30-08- True North           Finance        Mumbai      N/A               Private     60,00,00,000
+    2018                                                                     Equity
+334 01-07- Leena AI             Technology     Gurugram    Y Combinator      Seed/ Angel N/A
+    2018                                                                     Funding
+335 02-07- Biryani By Kilo      Consumer       Gurugram    Ajay Relan and    Seed/ Angel 10,00,000
+    2018                        Internet                   Vinay Mittal      Funding
+336 04-07- Anchanto             IT             Pune        MDI Ventures &    Private     40,00,000
+    2018                                                   Telkom Indonesia  Equity
+                                                           Shunwei Capital,
+                                                           Tuscan Ventures,
+337 05/    Loan Tap             Consumer       Mumbai      Ashish Goenka, VC Private     62,50,000
+    072018                      Internet                   firms India       Equity
+                                                           Quotient and Kae
+                                                           Capital
+338 06-07- PolicyBazaar         Consumer       Gurugram    Info Edge (India) Private     2,77,00,000
+    2018                        Internet                   Ltd and Temasek   Equity
+339 09-07- zippserv             Consumer       Bengaluru   Info Edge (India) Seed/ Angel 4,40,000
+    2018                        Internet                   Ltd               Funding
+                                                           Insignia Ventures
+340 09-07- Groww                Consumer       Bengaluru   Partners,         Seed/ Angel 11,00,000
+    2018                        Internet                   Lightbridge       Funding
+                                                           Partners & Kairos
+                                                           Avtar Monga,
+    10-07-                      Consumer                   chief operating   Seed/ Angel
+341 2018   Avenue Growth        Internet       Gurugram    office at IDFC    Funding     4,37,000
+                                                           Bank, Aditya
+                                                           Malik & Others
+342 10-07- iNICU                Healthcare     Delhi       Venture Catalysts Seed/ Angel N/A
+    2018                                                                     Funding
+343 10-07- Kinara Capital       Finance        Bengaluru   ResponsAbility    Private     50,00,000
+    2018                                                                     Equity
+                                                           Stellaris Venture
+                                                           Partners, Vy
+344 10-07- Shop 101             Consumer       Mumbai      Capital,          Private     50,00,000
+    2018                        Internet                   Raghunandan G,    Equity
+                                                           and Ramakant
+                                                           Sharma
+    11-07-                      Consumer                   Base of Pyramid   Private
+345 2018   Sambandh             Internet       Rourkela    Asia (BOPA) Pte   Equity      25,00,000
+                                                           Ltd
+                                                           Rishi Vasudev,
+                                                           Excelsior
+    12-07-                                                 Investments,      Seed/ Angel
+346 2018   19th mile            IT             Gurugram    Ritesh Vohra,     Funding     1,80,000
+                                                           Praveer Kumar,
+                                                           Prashant Gupta
+                                                           and Others
+347 12-07- 5th Vital            Healthcare     Bengaluru   Brand Capital and Seed/ Angel 5,00,000
+    2018                                                   Others            Funding
+                                                           Siddharth
+                                                           Agarwal, Mahavir
+348 13-07- MEngage              Healthcare     Jaipur      Sharma, Amit      Seed/ Angel 1,75,000
+    2018                                                   Singal, 100 Co-   Funding
+                                                           founders Lab and
+                                                           others.
+                                                           Creation
+                                                           Investments,
+349 17-07- Ofbusiness           Finance        Gurugram    Falcon Edge,      Private     2,90,00,000
+    2018                                                   Matrix Partners   Equity
+                                                           India and Zodius
+                                                           Capital
+    17-07-                      Consumer                   Kingsway FCI      Private
+350 2018   Cars24               Internet       Gurugram    Fund, KCK Global  Equity      4,97,00,000
+                                                           & Others
+351 18-07- The Ken              Consumer       Bengaluru   Omidyar Network & Seed/ Angel 15,00,000
+    2018                        Internet                   Others            Funding
+    19-07-                      Consumer                   TPG Growth, The   Private
+352 2018   Book My Show         Internet       Mumbai      Rise Fund &       Equity      10,00,00,000
+                                                           Others
+353 20-07- HousingMan           Consumer       Bengaluru   N/A               Seed/ Angel 15,00,000
+    2018                        Internet                                     Funding
+354 21-07- PaySense             Consumer       Mumbai      PayU & Others     Private     1,80,00,000
+    2018                        Internet                                     Equity
+355 23-07- Yulu Bikes           Technology     Bengaluru   N/A               Seed/ Angel N/A
+    2018                                                                     Funding
+                                                           AngelList, Rahul
+356 23-07- VTION                Technology     Gurugram    Khanna, Rajeev    Seed/ Angel 2,80,000
+    2018                                                   Arora and Ram     Funding
+                                                           Ramsundar.
+                                                           Metaform
+                                                           Ventures, Hemant
+    23-07-                                                 Luthra, Micro     Seed/ Angel
+357 2018   Log9 Materials       Technology     Bengaluru   venture capital   Funding     4,36,000
+                                                           firm GEMS
+                                                           Partners and
+                                                           Others
+358 24-07- kidovators           Ed-Tech        Bengaluru   Gray Matters      Seed/ Angel 1,80,000
+    2018                                                                     Funding
+359 24-07- Digit                Consumer       Pune        Fairfax           Private     4,50,00,000
+    2018                        Internet                                     Equity
+                                                           Allcargo
+    25-07-                                                 Logistics,        Private
+360 2018   Black Soil           Finance        Mumbai      Navneet Education Equity      1,70,00,000
+                                                           and Mahavir
+                                                           Agency
+    25-07-                      Consumer                   BeeNext , WEH     Seed/ Angel
+361 2018   Trell                Internet       Bengaluru   Ventures and      Funding     12,50,000
+                                                           Sprout Ventures
+362 25-07- iqlect               Technology     Bengaluru   Ventureast and    Seed/ Angel 25,00,000
+    2018                                                   Exfinity          Funding
+                                                           Bharat
+                                                           Innovation, IDFC-
+                                                           Parampara
+363 26-07- Entropik             IT             Bengaluru   Capital,          Seed/ Angel 11,00,000
+    2018                                                   Arthavida         Funding
+                                                           Ventures,
+                                                           Jitendra Gupta &
+                                                           Others
+364 26-07- Bitla Software       Technology     Bengaluru   MakeMyTrip        Private     N/A
+    2018                                                                     Equity
+    26-07-                                                 Lindwall Family   Private
+365 2018   TheCapitalNet        Fin-Tech       Hyderabad   Investments LLC   Equity      5,00,000
+                                                           (LFI)
+366 30-07- Shuttl               Consumer       Gurugram    Amazon Alexa Fund Private     1,10,00,000
+    2018                        Internet                   & Dentsu Ventures Equity
+                                                           IDG Ventures,
+367 30-07- Cure Fit             Consumer       Bengaluru   Accel Partners,   Private     12,00,00,000
+    2018                        Internet                   Kalaari Capital   Equity
+                                                           and Others
+                                                           TPG, Norwest
+368 31-07- Five Star Group      Fin-Tech       Chennai     Venture Partners, Private     10,00,00,000
+    2018                                                   Sequoia Capital & Equity
+                                                           Matrix Partners
+369 31-07- Healthsignz          Healthcare     Hyderabad   Kantilal Patel    Seed/ Angel 50,00,000
+    2018                                                                     Funding
+370 01-10- Northmist            Fashion        Delhi       Prashant Jaiswal  Seed/ Angel N/A
+    2018                                                                     Funding
+                                                           Cooperative
+    02-10- Origo Commodities                               Oikocredit,       Seed/ Angel
+371 2018   India Pvt. Ltd       Logistics      Hyderabad   Caspian and       Funding     1,10,00,000
+                                                           Hivos-Triodos
+                                                           Fund
+372 04-10- Grover Zampa         Food           Mumbai      Ravi Viswanathan  Private     82,00,000
+    2018                                                                     Equity
+373 05-10- Droom                Automobile     Gurgaon     ZigExN            Series E    30,00,000
+    2018
+374 11-10- Innov8               Real Estate    New Delhi   Credence Family   Pre-Series  40,00,000
+    2018                                                   Office            A
+375 12-10- Blackbuck            Logistics Tech Bengaluru   Sequoia Capital   Private     1,46,80,000
+    2018                                                   India             Funding
+376 12-10- LetsTransport        Logistics Tech Bengaluru   Fosun             Series C    1,20,00,000
+    2018                                                   International
+                                                           Sistema Asia
+377 01-09- Netmeds              Consumer       Chennai     Fund, Sistema     Private     3,50,00,000
+    2018                        Internet                   JSFC and Tanncam  Equity
+                                                           Investment
+                                                           DST Global and
+    03-09-                                                 Lightspeed        Private
+378 2018   Udaan                B2B Platform   Bengaluru   Venture Partners  Equity      22,50,00,000
+                                                           ¢ ¬ ¢ global
+                                                           fund.
+379 03-09- Daily hunt           Consumer       Bengaluru   Falcon Edge       Private     63,90,000
+    2018                        Internet                                     Equity
+    04-09-                                                                   Seed /
+380 2018   3HCare               Healthcare     Delhi       N/A               Angel       10,00,000
+                                                                             Funding
+                                                           Korea Investment
+                                                           Partners (KIP),
+381 04-09- HappyGoEasy          Consumer       Gurugram    Samsung and       Private     N/A
+    2018                        Internet                   China-based CITIC Equity
+                                                           Capital and
+                                                           others
+382 05-09- Nykaa                Consumer       Mumbai      Lighthouse        Private     15,72,00,000
+    2018                        Internet                                     Equity
+383 05-09- Mad Street Den       Technology     Chennai     KDDI             Private     N/A
+    2018                                                                     Equity
+                                                           Tencent, Kalaari
+                                                           Capital and
+384 06-09- Dream11              Consumer       Mumbai      Private equity    Private     10,00,00,000
+    2018                        Internet                   firm Multiples    Equity
+                                                           Alternate Asset
+                                                           Management
+385 10-09- MamaEarth            Healthcare     Gurugram    Stellaris         Private     40,00,000
+    2018                                                   Ventures & Others Equity
+                                                           CLP Holdings
+386 11-09- AutoGrid             Technology     Bengaluru   Group, Innogy,   Private     3,20,00,000
+    2018                                                   rstead, and       Equity
+                                                           Tenaska
+387 11-09- Pharmeasy            Consumer       Mumbai      InnoVen Capital   Debt        55,00,000
+    2018                        Internet                                     Funding
+    11-09-                                                 Shunwei           Private
+388 2018   Upwards              Fin-Tech       Mumbai      Capital,Quotient, Equity      50,00,000
+                                                           Mayfield & Others
+                                                           Vertex Ventures
+                                                           Southeast Asia
+                                                           (SEA) and India
+    12-09-                                                 and Sistema Asia  Private
+389 2018   Kissht               Fin-Tech       Mumbai      Fund, Fosun RZ    Equity      3,00,00,000
+                                                           Capital,
+                                                           Ventureast, and
+                                                           Endiya Partners.
+
+390
+                                                           Farm To Fork,
+                                                           Arts Alliance,
+    01-08-                                                 The Syndicate     Seed/ Angel
+391 2018   dishq                Food-Tech      Bengaluru   Fund, Sven        Funding     4,00,000
+                                                           Hensen, Zeroth
+                                                           and Artesian
+                                                           Venture Partners
+    01-08-                                                 Axilor, Sprout    Seed/ Angel
+392 2018   HealthFin            Finance        Pune        Venture Partners  Funding     N/A
+                                                           and others
+    02-08-                      Consumer                   Xiaomi and        Private
+393 2018   Samosa Labs          Internet       Hyderabad   Sequoia Capital   Equity      70,00,000
+                                                           India
+394 03-08- ZiffyHomes           Consumer       Gurugram    Y Combinator      Private     1,20,000
+    2018                        Internet                                     Equity
+395 07-08- My OmNamo            Consumer       Mumbai      N/A               Seed/ Angel 10,00,000
+    2018                        Internet                                     Funding
+396 07-08- ShopX                Consumer       Bengaluru   Fung Strategic    Private     3,50,00,000
+    2018                        Internet                   Holdings          Equity
+397 07-08- MakeMyTrip           Consumer       Gurugram    MakeMyTrip        Private     1,00,00,000
+    2018                        Internet                   Limited           Equity
+398 08-08- Hansel io            Consumer       Bengaluru   Vertex Ventures   Seed/ Angel 40,00,000
+    2018                        Internet                                     Funding
+                                                           Sequoia Capital
+399 08-08- Metro Bikes          Consumer       Bengaluru   India Advisors,   Private     1,22,00,000
+    2018                        Internet                   Accel Partners    Equity
+                                                           and G Raghunandan
+400 08-08- Phone Pe             Consumer       Bengaluru   Flipkart          Private     6,60,00,000
+    2018                        Internet                                     Equity
+                                                           Nexus Venture
+401 09-08- quizizz              Ed-Tech        Bengaluru   Partners, Prime   Seed/ Angel 30,00,000
+    2018                                                   Venture Partners  Funding
+                                                           and Others
+                                                           AJ Ventures and
+                                                           Jain
+402 09-08- Happy EMI            Fin-Tech       Bengaluru   International     Seed/ Angel 10,00,000
+    2018                                                   Trade             Funding
+                                                           Organisation
+                                                           (JITO)
+    13-08-                      Consumer                   Ventureast, Orios Seed/ Angel
+403 2018   Inthree              Internet       Chennai     Venture Partners  Funding     40,00,000
+                                                           and the IAN Fund
+                                                           Nexus Venture
+                                                           Partners, MGV,
+    13-08-                                                 Liquid 2          Private
+404 2018   Observe AI           Technology     Bengaluru   Ventures, Hack    Equity      80,00,000
+                                                           VC, Emergent
+                                                           Ventures and Y
+                                                           Combinator
+405 16-08- Enakshi              Consumer       Ahemadabad  N/A               Seed/ Angel 1,14,811
+    2018                        Internet                                     Funding
+406 17-08- EazyDiner            Consumer       Gurugram    Denlow Investment Private     58,50,000
+    2018                        Internet                   Trust and Beenext Equity
+    20-08-                                                                   Seed /
+407 2018   Finzy                Finance        Bengaluru   N/A               Angel       10,00,000
+                                                                             Funding
+408 20-08- RawPressery          Consumer       Mumbai      Alteria Capital   Debt        48,00,000
+    2018                        Internet                                     Funding
+409 22-08- Pi Ventures          Technology     Bengaluru   CDC Group plc    Private     60,00,000
+    2018                                                                     Equity
+                                                           Hyundai,
+                                                           Edelweiss and
+410 22-08- Revv                 Consumer       Gurugram    Beenext, Dream    Private     1,42,70,000
+    2018                        Internet                   Incubator, Sunjay Equity
+                                                           Kapoor and Telama
+                                                           Investment
+                                                           Xiaomi,PayU,
+411 26-08- ZestMoney            Consumer       Bengaluru   Ribbit Capital    Private     1,34,00,000
+    2018                        Internet                   and Omidyar       Equity
+                                                           Network
+                                                           Saama Capital,
+412 26-08- Shubh Loans          Fin-Tech       Bengaluru   SRI Capital,      Private     42,00,000
+    2018                                                   Beenext, and      Equity
+                                                           Pravega Ventures
+                                                           Nexus Venture
+413 27-08- MyUpchar             Healthcare     Delhi       Partners, Omidyar Private     50,00,000
+    2018                                                   Network and       Equity
+                                                           Shunwei Capital
+    28-08-                                                 Accel (formerly   Private
+414 2018   Narvar               IT             Bengaluru   known as Accel    Equity      30,00,000
+                                                           Partners)
+415 30-08- True North           Finance        Mumbai      N/A               Private     60,00,00,000
+    2018                                                                     Equity
+416 01-07- Leena AI             Technology     Gurugram    Y Combinator      Seed/ Angel N/A
+    2018                                                                     Funding
+417 02-07- Biryani By Kilo      Consumer       Gurugram    Ajay Relan and    Seed/ Angel 10,00,000
+    2018                        Internet                   Vinay Mittal      Funding
+418 04-07- Anchanto             IT             Pune        MDI Ventures &    Private     40,00,000
+    2018                                                   Telkom Indonesia  Equity
+                                                           Shunwei Capital,
+                                                           Tuscan Ventures,
+419 05/    Loan Tap             Consumer       Mumbai      Ashish Goenka, VC Private     62,50,000
+    072018                      Internet                   firms India       Equity
+                                                           Quotient and Kae
+                                                           Capital
+420 06-07- PolicyBazaar         Consumer       Gurugram    Info Edge (India) Private     2,77,00,000
+    2018                        Internet                   Ltd and Temasek   Equity
+421 09-07- zippserv             Consumer       Bengaluru   Info Edge (India) Seed/ Angel 4,40,000
+    2018                        Internet                   Ltd               Funding
+                                                           Insignia Ventures
+422 09-07- Groww                Consumer       Bengaluru   Partners,         Seed/ Angel 11,00,000
+    2018                        Internet                   Lightbridge       Funding
+                                                           Partners & Kairos
+                                                           Avtar Monga,
+    10-07-                      Consumer                   chief operating   Seed/ Angel
+423 2018   Avenue Growth        Internet       Gurugram    office at IDFC    Funding     4,37,000
+                                                           Bank, Aditya
+                                                           Malik & Others
+424 10-07- iNICU                Healthcare     Delhi       Venture Catalysts Seed/ Angel N/A
+    2018                                                                     Funding
+425 10-07- Kinara Capital       Finance        Bengaluru   ResponsAbility    Private     50,00,000
+    2018                                                                     Equity
+                                                           Stellaris Venture
+                                                           Partners, Vy
+426 10-07- Shop 101             Consumer       Mumbai      Capital,          Private     50,00,000
+    2018                        Internet                   Raghunandan G,    Equity
+                                                           and Ramakant
+                                                           Sharma
+    11-07-                      Consumer                   Base of Pyramid   Private
+427 2018   Sambandh             Internet       Rourkela    Asia (BOPA) Pte   Equity      25,00,000
+                                                           Ltd
+                                                           Rishi Vasudev,
+                                                           Excelsior
+    12-07-                                                 Investments,      Seed/ Angel
+428 2018   19th mile            IT             Gurugram    Ritesh Vohra,     Funding     1,80,000
+                                                           Praveer Kumar,
+                                                           Prashant Gupta
+                                                           and Others
+429 12-07- 5th Vital            Healthcare     Bengaluru   Brand Capital and Seed/ Angel 5,00,000
+    2018                                                   Others            Funding
+                                                           Siddharth
+                                                           Agarwal, Mahavir
+430 13-07- MEngage              Healthcare     Jaipur      Sharma, Amit      Seed/ Angel 1,75,000
+    2018                                                   Singal, 100 Co-   Funding
+                                                           founders Lab and
+                                                           others.
+                                                           Creation
+                                                           Investments,
+431 17-07- Ofbusiness           Finance        Gurugram    Falcon Edge,      Private     2,90,00,000
+    2018                                                   Matrix Partners   Equity
+                                                           India and Zodius
+                                                           Capital
+    17-07-                      Consumer                   Kingsway FCI      Private
+432 2018   Cars24               Internet       Gurugram    Fund, KCK Global  Equity      4,97,00,000
+                                                           & Others
+433 18-07- The Ken              Consumer       Bengaluru   Omidyar Network & Seed/ Angel 15,00,000
+    2018                        Internet                   Others            Funding
+    19-07-                      Consumer                   TPG Growth, The   Private
+434 2018   Book My Show         Internet       Mumbai      Rise Fund &       Equity      10,00,00,000
+                                                           Others
+435 20-07- HousingMan           Consumer       Bengaluru   N/A               Seed/ Angel 15,00,000
+    2018                        Internet                                     Funding
+436 21-07- PaySense             Consumer       Mumbai      PayU & Others     Private     1,80,00,000
+    2018                        Internet                                     Equity
+437 23-07- Yulu Bikes           Technology     Bengaluru   N/A               Seed/ Angel N/A
+    2018                                                                     Funding
+                                                           AngelList, Rahul
+438 23-07- VTION                Technology     Gurugram    Khanna, Rajeev    Seed/ Angel 2,80,000
+    2018                                                   Arora and Ram     Funding
+                                                           Ramsundar.
+                                                           Metaform
+                                                           Ventures, Hemant
+    23-07-                                                 Luthra, Micro     Seed/ Angel
+439 2018   Log9 Materials       Technology     Bengaluru   venture capital   Funding     4,36,000
+                                                           firm GEMS
+                                                           Partners and
+                                                           Others
+440 24-07- kidovators           Ed-Tech        Bengaluru   Gray Matters      Seed/ Angel 1,80,000
+    2018                                                                     Funding
+441 24-07- Digit                Consumer       Pune        Fairfax           Private     4,50,00,000
+    2018                        Internet                                     Equity
+                                                           Allcargo
+    25-07-                                                 Logistics,        Private
+442 2018   Black Soil           Finance        Mumbai      Navneet Education Equity      1,70,00,000
+                                                           and Mahavir
+                                                           Agency
+    25-07-                      Consumer                   BeeNext , WEH     Seed/ Angel
+443 2018   Trell                Internet       Bengaluru   Ventures and      Funding     12,50,000
+                                                           Sprout Ventures
+444 25-07- iqlect               Technology     Bengaluru   Ventureast and    Seed/ Angel 25,00,000
+    2018                                                   Exfinity          Funding
+                                                           Bharat
+                                                           Innovation, IDFC-
+                                                           Parampara
+445 26-07- Entropik             IT             Bengaluru   Capital,          Seed/ Angel 11,00,000
+    2018                                                   Arthavida         Funding
+                                                           Ventures,
+                                                           Jitendra Gupta &
+                                                           Others
+446 26-07- Bitla Software       Technology     Bengaluru   MakeMyTrip        Private     N/A
+    2018                                                                     Equity
+    26-07-                                                 Lindwall Family   Private
+447 2018   TheCapitalNet        Fin-Tech       Hyderabad   Investments LLC   Equity      5,00,000
+                                                           (LFI)
+448 30-07- Shuttl               Consumer       Gurugram    Amazon Alexa Fund Private     1,10,00,000
+    2018                        Internet                   & Dentsu Ventures Equity
+                                                           IDG Ventures,
+449 30-07- Cure Fit             Consumer       Bengaluru   Accel Partners,   Private     12,00,00,000
+    2018                        Internet                   Kalaari Capital   Equity
+                                                           and Others
+                                                           TPG, Norwest
+450 31-07- Five Star Group      Fin-Tech       Chennai     Venture Partners, Private     10,00,00,000
+    2018                                                   Sequoia Capital & Equity
+                                                           Matrix Partners
+451 31-07- Healthsignz          Healthcare     Hyderabad   Kantilal Patel    Seed/ Angel 50,00,000
+    2018                                                                     Funding
+452 01-10- Northmist            Fashion        Delhi       Prashant Jaiswal  Seed/ Angel N/A
+    2018                                                                     Funding
+                                                           Cooperative
+    02-10- Origo Commodities                               Oikocredit,       Seed/ Angel
+453 2018   India Pvt. Ltd       Logistics      Hyderabad   Caspian and       Funding     1,10,00,000
+                                                           Hivos-Triodos
+                                                           Fund
+454 04-10- Grover Zampa         Food           Mumbai      Ravi Viswanathan  Private     82,00,000
+    2018                                                                     Equity
+455 05-10- Droom                Automobile     Gurgaon     ZigExN            Series E    30,00,000
+    2018
+456 11-10- Innov8               Real Estate    New Delhi   Credence Family   Pre-Series  40,00,000
+    2018                                                   Office            A
+457 12-10- Blackbuck            Logistics Tech Bengaluru   Sequoia Capital   Private     1,46,80,000
+    2018                                                   India             Funding
+458 12-10- LetsTransport        Logistics Tech Bengaluru   Fosun             Series C    1,20,00,000
+    2018                                                   International
+                                                           Sistema Asia
+459 01-09- Netmeds              Consumer       Chennai     Fund, Sistema     Private     3,50,00,000
+    2018                        Internet                   JSFC and Tanncam  Equity
+                                                           Investment
+                                                           DST Global and
+    03-09-                                                 Lightspeed        Private
+460 2018   Udaan                B2B Platform   Bengaluru   Venture Partners  Equity      22,50,00,000
+                                                           ¢ ¬ ¢ global
+                                                           fund.
+461 03-09- Daily hunt           Consumer       Bengaluru   Falcon Edge       Private     63,90,000
+    2018                        Internet                                     Equity
+    04-09-                                                                   Seed /
+462 2018   3HCare               Healthcare     Delhi       N/A               Angel       10,00,000
+                                                                             Funding
+                                                           Korea Investment
+                                                           Partners (KIP),
+463 04-09- HappyGoEasy          Consumer       Gurugram    Samsung and       Private     N/A
+    2018                        Internet                   China-based CITIC Equity
+                                                           Capital and
+                                                           others
+464 05-09- Nykaa                Consumer       Mumbai      Lighthouse        Private     15,72,00,000
+    2018                        Internet                                     Equity
+465 05-09- Mad Street Den       Technology     Chennai     KDDI             Private     N/A
+    2018                                                                     Equity
+                                                           Tencent, Kalaari
+                                                           Capital and
+466 06-09- Dream11              Consumer       Mumbai      Private equity    Private     10,00,00,000
+    2018                        Internet                   firm Multiples    Equity
+                                                           Alternate Asset
+                                                           Management
+467 10-09- MamaEarth            Healthcare     Gurugram    Stellaris         Private     40,00,000
+    2018                                                   Ventures & Others Equity
+                                                           CLP Holdings
+468 11-09- AutoGrid             Technology     Bengaluru   Group, Innogy,   Private     3,20,00,000
+    2018                                                   rstead, and       Equity
+                                                           Tenaska
+469 11-09- Pharmeasy            Consumer       Mumbai      InnoVen Capital   Debt        55,00,000
+    2018                        Internet                                     Funding
+    11-09-                                                 Shunwei           Private
+470 2018   Upwards              Fin-Tech       Mumbai      Capital,Quotient, Equity      50,00,000
+                                                           Mayfield & Others
+                                                           Vertex Ventures
+                                                           Southeast Asia
+                                                           (SEA) and India
+    12-09-                                                 and Sistema Asia  Private
+471 2018   Kissht               Fin-Tech       Mumbai      Fund, Fosun RZ    Equity      3,00,00,000
+                                                           Capital,
+                                                           Ventureast, and
+                                                           Endiya Partners.
+
+472
+                                                           Farm To Fork,
+                                                           Arts Alliance,
+    01-08-                                                 The Syndicate     Seed/ Angel
+473 2018   dishq                Food-Tech      Bengaluru   Fund, Sven        Funding     4,00,000
+                                                           Hensen, Zeroth
+                                                           and Artesian
+                                                           Venture Partners
+    01-08-                                                 Axilor, Sprout    Seed/ Angel
+474 2018   HealthFin            Finance        Pune        Venture Partners  Funding     N/A
+                                                           and others
+    02-08-                      Consumer                   Xiaomi and        Private
+475 2018   Samosa Labs          Internet       Hyderabad   Sequoia Capital   Equity      70,00,000
+                                                           India
+476 03-08- ZiffyHomes           Consumer       Gurugram    Y Combinator      Private     1,20,000
+    2018                        Internet                                     Equity
+477 07-08- My OmNamo            Consumer       Mumbai      N/A               Seed/ Angel 10,00,000
+    2018                        Internet                                     Funding
+478 07-08- ShopX                Consumer       Bengaluru   Fung Strategic    Private     3,50,00,000
+    2018                        Internet                   Holdings          Equity
+479 07-08- MakeMyTrip           Consumer       Gurugram    MakeMyTrip        Private     1,00,00,000
+    2018                        Internet                   Limited           Equity
+480 08-08- Hansel io            Consumer       Bengaluru   Vertex Ventures   Seed/ Angel 40,00,000
+    2018                        Internet                                     Funding
+                                                           Sequoia Capital
+481 08-08- Metro Bikes          Consumer       Bengaluru   India Advisors,   Private     1,22,00,000
+    2018                        Internet                   Accel Partners    Equity
+                                                           and G Raghunandan
+482 08-08- Phone Pe             Consumer       Bengaluru   Flipkart          Private     6,60,00,000
+    2018                        Internet                                     Equity
+                                                           Nexus Venture
+483 09-08- quizizz              Ed-Tech        Bengaluru   Partners, Prime   Seed/ Angel 30,00,000
+    2018                                                   Venture Partners  Funding
+                                                           and Others
+                                                           AJ Ventures and
+                                                           Jain
+484 09-08- Happy EMI            Fin-Tech       Bengaluru   International     Seed/ Angel 10,00,000
+    2018                                                   Trade             Funding
+                                                           Organisation
+                                                           (JITO)
+    13-08-                      Consumer                   Ventureast, Orios Seed/ Angel
+485 2018   Inthree              Internet       Chennai     Venture Partners  Funding     40,00,000
+                                                           and the IAN Fund
+                                                           Nexus Venture
+                                                           Partners, MGV,
+    13-08-                                                 Liquid 2          Private
+486 2018   Observe AI           Technology     Bengaluru   Ventures, Hack    Equity      80,00,000
+                                                           VC, Emergent
+                                                           Ventures and Y
+                                                           Combinator
+487 16-08- Enakshi              Consumer       Ahemadabad  N/A               Seed/ Angel 1,14,811
+    2018                        Internet                                     Funding
+488 17-08- EazyDiner            Consumer       Gurugram    Denlow Investment Private     58,50,000
+    2018                        Internet                   Trust and Beenext Equity
+    20-08-                                                                   Seed /
+489 2018   Finzy                Finance        Bengaluru   N/A               Angel       10,00,000
+                                                                             Funding
+490 20-08- RawPressery          Consumer       Mumbai      Alteria Capital   Debt        48,00,000
+    2018                        Internet                                     Funding
+491 22-08- Pi Ventures          Technology     Bengaluru   CDC Group plc    Private     60,00,000
+    2018                                                                     Equity
+                                                           Hyundai,
+                                                           Edelweiss and
+492 22-08- Revv                 Consumer       Gurugram    Beenext, Dream    Private     1,42,70,000
+    2018                        Internet                   Incubator, Sunjay Equity
+                                                           Kapoor and Telama
+                                                           Investment
+                                                           Xiaomi,PayU,
+493 26-08- ZestMoney            Consumer       Bengaluru   Ribbit Capital    Private     1,34,00,000
+    2018                        Internet                   and Omidyar       Equity
+                                                           Network
+                                                           Saama Capital,
+494 26-08- Shubh Loans          Fin-Tech       Bengaluru   SRI Capital,      Private     42,00,000
+    2018                                                   Beenext, and      Equity
+                                                           Pravega Ventures
+                                                           Nexus Venture
+495 27-08- MyUpchar             Healthcare     Delhi       Partners, Omidyar Private     50,00,000
+    2018                                                   Network and       Equity
+                                                           Shunwei Capital
+    28-08-                                                 Accel (formerly   Private
+496 2018   Narvar               IT             Bengaluru   known as Accel    Equity      30,00,000
+                                                           Partners)
+497 30-08- True North           Finance        Mumbai      N/A               Private     60,00,00,000
+    2018                                                                     Equity
+498 01-07- Leena AI             Technology     Gurugram    Y Combinator      Seed/ Angel N/A
+    2018                                                                     Funding
+499 02-07- Biryani By Kilo      Consumer       Gurugram    Ajay Relan and    Seed/ Angel 10,00,000
+    2018                        Internet                   Vinay Mittal      Funding
+500 04-07- Anchanto             IT             Pune        MDI Ventures &    Private     40,00,000
+    2018                                                   Telkom Indonesia  Equity
+                                                           Shunwei Capital,
+                                                           Tuscan Ventures,
+501 05/    Loan Tap             Consumer       Mumbai      Ashish Goenka, VC Private     62,50,000
+    072018                      Internet                   firms India       Equity
+                                                           Quotient and Kae
+                                                           Capital
+502 06-07- PolicyBazaar         Consumer       Gurugram    Info Edge (India) Private     2,77,00,000
+    2018                        Internet                   Ltd and Temasek   Equity
+503 09-07- zippserv             Consumer       Bengaluru   Info Edge (India) Seed/ Angel 4,40,000
+    2018                        Internet                   Ltd               Funding
+                                                           Insignia Ventures
+504 09-07- Groww                Consumer       Bengaluru   Partners,         Seed/ Angel 11,00,000
+    2018                        Internet                   Lightbridge       Funding
+                                                           Partners & Kairos
+                                                           Avtar Monga,
+    10-07-                      Consumer                   chief operating   Seed/ Angel
+505 2018   Avenue Growth        Internet       Gurugram    office at IDFC    Funding     4,37,000
+                                                           Bank, Aditya
+                                                           Malik & Others
+506 10-07- iNICU                Healthcare     Delhi       Venture Catalysts Seed/ Angel N/A
+    2018                                                                     Funding
+507 10-07- Kinara Capital       Finance        Bengaluru   ResponsAbility    Private     50,00,000
+    2018                                                                     Equity
+                                                           Stellaris Venture
+                                                           Partners, Vy
+508 10-07- Shop 101             Consumer       Mumbai      Capital,          Private     50,00,000
+    2018                        Internet                   Raghunandan G,    Equity
+                                                           and Ramakant
+                                                           Sharma
+    11-07-                      Consumer                   Base of Pyramid   Private
+509 2018   Sambandh             Internet       Rourkela    Asia (BOPA) Pte   Equity      25,00,000
+                                                           Ltd
+                                                           Rishi Vasudev,
+                                                           Excelsior
+    12-07-                                                 Investments,      Seed/ Angel
+510 2018   19th mile            IT             Gurugram    Ritesh Vohra,     Funding     1,80,000
+                                                           Praveer Kumar,
+                                                           Prashant Gupta
+                                                           and Others
+511 12-07- 5th Vital            Healthcare     Bengaluru   Brand Capital and Seed/ Angel 5,00,000
+    2018                                                   Others            Funding
+                                                           Siddharth
+                                                           Agarwal, Mahavir
+512 13-07- MEngage              Healthcare     Jaipur      Sharma, Amit      Seed/ Angel 1,75,000
+    2018                                                   Singal, 100 Co-   Funding
+                                                           founders Lab and
+                                                           others.
+                                                           Creation
+                                                           Investments,
+513 17-07- Ofbusiness           Finance        Gurugram    Falcon Edge,      Private     2,90,00,000
+    2018                                                   Matrix Partners   Equity
+                                                           India and Zodius
+                                                           Capital
+    17-07-                      Consumer                   Kingsway FCI      Private
+514 2018   Cars24               Internet       Gurugram    Fund, KCK Global  Equity      4,97,00,000
+                                                           & Others
+515 18-07- The Ken              Consumer       Bengaluru   Omidyar Network & Seed/ Angel 15,00,000
+    2018                        Internet                   Others            Funding
+    19-07-                      Consumer                   TPG Growth, The   Private
+516 2018   Book My Show         Internet       Mumbai      Rise Fund &       Equity      10,00,00,000
+                                                           Others
+517 20-07- HousingMan           Consumer       Bengaluru   N/A               Seed/ Angel 15,00,000
+    2018                        Internet                                     Funding
+518 21-07- PaySense             Consumer       Mumbai      PayU & Others     Private     1,80,00,000
+    2018                        Internet                                     Equity
+519 23-07- Yulu Bikes           Technology     Bengaluru   N/A               Seed/ Angel N/A
+    2018                                                                     Funding
+                                                           AngelList, Rahul
+520 23-07- VTION                Technology     Gurugram    Khanna, Rajeev    Seed/ Angel 2,80,000
+    2018                                                   Arora and Ram     Funding
+                                                           Ramsundar.
+                                                           Metaform
+                                                           Ventures, Hemant
+    23-07-                                                 Luthra, Micro     Seed/ Angel
+521 2018   Log9 Materials       Technology     Bengaluru   venture capital   Funding     4,36,000
+                                                           firm GEMS
+                                                           Partners and
+                                                           Others
+522 24-07- kidovators           Ed-Tech        Bengaluru   Gray Matters      Seed/ Angel 1,80,000
+    2018                                                                     Funding
+523 24-07- Digit                Consumer       Pune        Fairfax           Private     4,50,00,000
+    2018                        Internet                                     Equity
+                                                           Allcargo
+    25-07-                                                 Logistics,        Private
+524 2018   Black Soil           Finance        Mumbai      Navneet Education Equity      1,70,00,000
+                                                           and Mahavir
+                                                           Agency
+    25-07-                      Consumer                   BeeNext , WEH     Seed/ Angel
+525 2018   Trell                Internet       Bengaluru   Ventures and      Funding     12,50,000
+                                                           Sprout Ventures
+526 25-07- iqlect               Technology     Bengaluru   Ventureast and    Seed/ Angel 25,00,000
+    2018                                                   Exfinity          Funding
+                                                           Bharat
+                                                           Innovation, IDFC-
+                                                           Parampara
+527 26-07- Entropik             IT             Bengaluru   Capital,          Seed/ Angel 11,00,000
+    2018                                                   Arthavida         Funding
+                                                           Ventures,
+                                                           Jitendra Gupta &
+                                                           Others
+528 26-07- Bitla Software       Technology     Bengaluru   MakeMyTrip        Private     N/A
+    2018                                                                     Equity
+    26-07-                                                 Lindwall Family   Private
+529 2018   TheCapitalNet        Fin-Tech       Hyderabad   Investments LLC   Equity      5,00,000
+                                                           (LFI)
+530 30-07- Shuttl               Consumer       Gurugram    Amazon Alexa Fund Private     1,10,00,000
+    2018                        Internet                   & Dentsu Ventures Equity
+                                                           IDG Ventures,
+531 30-07- Cure Fit             Consumer       Bengaluru   Accel Partners,   Private     12,00,00,000
+    2018                        Internet                   Kalaari Capital   Equity
+                                                           and Others
+                                                           TPG, Norwest
+532 31-07- Five Star Group      Fin-Tech       Chennai     Venture Partners, Private     10,00,00,000
+    2018                                                   Sequoia Capital & Equity
+                                                           Matrix Partners
+533 31-07- Healthsignz          Healthcare     Hyderabad   Kantilal Patel    Seed/ Angel 50,00,000
+    2018                                                                     Funding
+534 01-10- Northmist            Fashion        Delhi       Prashant Jaiswal  Seed/ Angel N/A
+    2018                                                                     Funding
+                                                           Cooperative
+    02-10- Origo Commodities                               Oikocredit,       Seed/ Angel
+535 2018   India Pvt. Ltd       Logistics      Hyderabad   Caspian and       Funding     1,10,00,000
+                                                           Hivos-Triodos
+                                                           Fund
+536 04-10- Grover Zampa         Food           Mumbai      Ravi Viswanathan  Private     82,00,000
+    2018                                                                     Equity
+537 05-10- Droom                Automobile     Gurgaon     ZigExN            Series E    30,00,000
+    2018
+538 11-10- Innov8               Real Estate    New Delhi   Credence Family   Pre-Series  40,00,000
+    2018                                                   Office            A
+539 12-10- Blackbuck            Logistics Tech Bengaluru   Sequoia Capital   Private     1,46,80,000
+    2018                                                   India             Funding
+540 12-10- LetsTransport        Logistics Tech Bengaluru   Fosun             Series C    1,20,00,000
+    2018                                                   International
+                                                           Sistema Asia
+541 01-09- Netmeds              Consumer       Chennai     Fund, Sistema     Private     3,50,00,000
+    2018                        Internet                   JSFC and Tanncam  Equity
+                                                           Investment
+                                                           DST Global and
+    03-09-                                                 Lightspeed        Private
+542 2018   Udaan                B2B Platform   Bengaluru   Venture Partners  Equity      22,50,00,000
+                                                           ¢ ¬ ¢ global
+                                                           fund.
+543 03-09- Daily hunt           Consumer       Bengaluru   Falcon Edge       Private     63,90,000
+    2018                        Internet                                     Equity
+    04-09-                                                                   Seed /
+544 2018   3HCare               Healthcare     Delhi       N/A               Angel       10,00,000
+                                                                             Funding
+                                                           Korea Investment
+                                                           Partners (KIP),
+545 04-09- HappyGoEasy          Consumer       Gurugram    Samsung and       Private     N/A
+    2018                        Internet                   China-based CITIC Equity
+                                                           Capital and
+                                                           others
+546 05-09- Nykaa                Consumer       Mumbai      Lighthouse        Private     15,72,00,000
+    2018                        Internet                                     Equity
+547 05-09- Mad Street Den       Technology     Chennai     KDDI             Private     N/A
+    2018                                                                     Equity
+                                                           Tencent, Kalaari
+                                                           Capital and
+548 06-09- Dream11              Consumer       Mumbai      Private equity    Private     10,00,00,000
+    2018                        Internet                   firm Multiples    Equity
+                                                           Alternate Asset
+                                                           Management
+549 10-09- MamaEarth            Healthcare     Gurugram    Stellaris         Private     40,00,000
+    2018                                                   Ventures & Others Equity
+                                                           CLP Holdings
+550 11-09- AutoGrid             Technology     Bengaluru   Group, Innogy,   Private     3,20,00,000
+    2018                                                   rstead, and       Equity
+                                                           Tenaska
+551 11-09- Pharmeasy            Consumer       Mumbai      InnoVen Capital   Debt        55,00,000
+    2018                        Internet                                     Funding
+    11-09-                                                 Shunwei           Private
+552 2018   Upwards              Fin-Tech       Mumbai      Capital,Quotient, Equity      50,00,000
+                                                           Mayfield & Others
+                                                           Vertex Ventures
+                                                           Southeast Asia
+                                                           (SEA) and India
+    12-09-                                                 and Sistema Asia  Private
+553 2018   Kissht               Fin-Tech       Mumbai      Fund, Fosun RZ    Equity      3,00,00,000
+                                                           Capital,
+                                                           Ventureast, and
+                                                           Endiya Partners.
+
+554
+                                                           Farm To Fork,
+                                                           Arts Alliance,
+    01-08-                                                 The Syndicate     Seed/ Angel
+555 2018   dishq                Food-Tech      Bengaluru   Fund, Sven        Funding     4,00,000
+                                                           Hensen, Zeroth
+                                                           and Artesian
+                                                           Venture Partners
+    01-08-                                                 Axilor, Sprout    Seed/ Angel
+556 2018   HealthFin            Finance        Pune        Venture Partners  Funding     N/A
+                                                           and others
+    02-08-                      Consumer                   Xiaomi and        Private
+557 2018   Samosa Labs          Internet       Hyderabad   Sequoia Capital   Equity      70,00,000
+                                                           India
+558 03-08- ZiffyHomes           Consumer       Gurugram    Y Combinator      Private     1,20,000
+    2018                        Internet                                     Equity
+559 07-08- My OmNamo            Consumer       Mumbai      N/A               Seed/ Angel 10,00,000
+    2018                        Internet                                     Funding
+560 07-08- ShopX                Consumer       Bengaluru   Fung Strategic    Private     3,50,00,000
+    2018                        Internet                   Holdings          Equity
+561 07-08- MakeMyTrip           Consumer       Gurugram    MakeMyTrip        Private     1,00,00,000
+    2018                        Internet                   Limited           Equity
+562 08-08- Hansel io            Consumer       Bengaluru   Vertex Ventures   Seed/ Angel 40,00,000
+    2018                        Internet                                     Funding
+                                                           Sequoia Capital
+563 08-08- Metro Bikes          Consumer       Bengaluru   India Advisors,   Private     1,22,00,000
+    2018                        Internet                   Accel Partners    Equity
+                                                           and G Raghunandan
+564 08-08- Phone Pe             Consumer       Bengaluru   Flipkart          Private     6,60,00,000
+    2018                        Internet                                     Equity
+                                                           Nexus Venture
+565 09-08- quizizz              Ed-Tech        Bengaluru   Partners, Prime   Seed/ Angel 30,00,000
+    2018                                                   Venture Partners  Funding
+                                                           and Others
+                                                           AJ Ventures and
+                                                           Jain
+566 09-08- Happy EMI            Fin-Tech       Bengaluru   International     Seed/ Angel 10,00,000
+    2018                                                   Trade             Funding
+                                                           Organisation
+                                                           (JITO)
+    13-08-                      Consumer                   Ventureast, Orios Seed/ Angel
+567 2018   Inthree              Internet       Chennai     Venture Partners  Funding     40,00,000
+                                                           and the IAN Fund
+                                                           Nexus Venture
+                                                           Partners, MGV,
+    13-08-                                                 Liquid 2          Private
+568 2018   Observe AI           Technology     Bengaluru   Ventures, Hack    Equity      80,00,000
+                                                           VC, Emergent
+                                                           Ventures and Y
+                                                           Combinator
+569 16-08- Enakshi              Consumer       Ahemadabad  N/A               Seed/ Angel 1,14,811
+    2018                        Internet                                     Funding
+570 17-08- EazyDiner            Consumer       Gurugram    Denlow Investment Private     58,50,000
+    2018                        Internet                   Trust and Beenext Equity
+    20-08-                                                                   Seed /
+571 2018   Finzy                Finance        Bengaluru   N/A               Angel       10,00,000
+                                                                             Funding
+572 20-08- RawPressery          Consumer       Mumbai      Alteria Capital   Debt        48,00,000
+    2018                        Internet                                     Funding
+573 22-08- Pi Ventures          Technology     Bengaluru   CDC Group plc    Private     60,00,000
+    2018                                                                     Equity
+                                                           Hyundai,
+                                                           Edelweiss and
+574 22-08- Revv                 Consumer       Gurugram    Beenext, Dream    Private     1,42,70,000
+    2018                        Internet                   Incubator, Sunjay Equity
+                                                           Kapoor and Telama
+                                                           Investment
+                                                           Xiaomi,PayU,
+575 26-08- ZestMoney            Consumer       Bengaluru   Ribbit Capital    Private     1,34,00,000
+    2018                        Internet                   and Omidyar       Equity
+                                                           Network
+                                                           Saama Capital,
+576 26-08- Shubh Loans          Fin-Tech       Bengaluru   SRI Capital,      Private     42,00,000
+    2018                                                   Beenext, and      Equity
+                                                           Pravega Ventures
+                                                           Nexus Venture
+577 27-08- MyUpchar             Healthcare     Delhi       Partners, Omidyar Private     50,00,000
+    2018                                                   Network and       Equity
+                                                           Shunwei Capital
+    28-08-                                                 Accel (formerly   Private
+578 2018   Narvar               IT             Bengaluru   known as Accel    Equity      30,00,000
+                                                           Partners)
+579 30-08- True North           Finance        Mumbai      N/A               Private     60,00,00,000
+    2018                                                                     Equity
+580 01-07- Leena AI             Technology     Gurugram    Y Combinator      Seed/ Angel N/A
+    2018                                                                     Funding
+581 02-07- Biryani By Kilo      Consumer       Gurugram    Ajay Relan and    Seed/ Angel 10,00,000
+    2018                        Internet                   Vinay Mittal      Funding
+582 04-07- Anchanto             IT             Pune        MDI Ventures &    Private     40,00,000
+    2018                                                   Telkom Indonesia  Equity
+                                                           Shunwei Capital,
+                                                           Tuscan Ventures,
+583 05/    Loan Tap             Consumer       Mumbai      Ashish Goenka, VC Private     62,50,000
+    072018                      Internet                   firms India       Equity
+                                                           Quotient and Kae
+                                                           Capital
+584 06-07- PolicyBazaar         Consumer       Gurugram    Info Edge (India) Private     2,77,00,000
+    2018                        Internet                   Ltd and Temasek   Equity
+585 09-07- zippserv             Consumer       Bengaluru   Info Edge (India) Seed/ Angel 4,40,000
+    2018                        Internet                   Ltd               Funding
+                                                           Insignia Ventures
+586 09-07- Groww                Consumer       Bengaluru   Partners,         Seed/ Angel 11,00,000
+    2018                        Internet                   Lightbridge       Funding
+                                                           Partners & Kairos
+                                                           Avtar Monga,
+    10-07-                      Consumer                   chief operating   Seed/ Angel
+587 2018   Avenue Growth        Internet       Gurugram    office at IDFC    Funding     4,37,000
+                                                           Bank, Aditya
+                                                           Malik & Others
+588 10-07- iNICU                Healthcare     Delhi       Venture Catalysts Seed/ Angel N/A
+    2018                                                                     Funding
+589 10-07- Kinara Capital       Finance        Bengaluru   ResponsAbility    Private     50,00,000
+    2018                                                                     Equity
+                                                           Stellaris Venture
+                                                           Partners, Vy
+590 10-07- Shop 101             Consumer       Mumbai      Capital,          Private     50,00,000
+    2018                        Internet                   Raghunandan G,    Equity
+                                                           and Ramakant
+                                                           Sharma
+    11-07-                      Consumer                   Base of Pyramid   Private
+591 2018   Sambandh             Internet       Rourkela    Asia (BOPA) Pte   Equity      25,00,000
+                                                           Ltd
+                                                           Rishi Vasudev,
+                                                           Excelsior
+    12-07-                                                 Investments,      Seed/ Angel
+592 2018   19th mile            IT             Gurugram    Ritesh Vohra,     Funding     1,80,000
+                                                           Praveer Kumar,
+                                                           Prashant Gupta
+                                                           and Others
+593 12-07- 5th Vital            Healthcare     Bengaluru   Brand Capital and Seed/ Angel 5,00,000
+    2018                                                   Others            Funding
+                                                           Siddharth
+                                                           Agarwal, Mahavir
+594 13-07- MEngage              Healthcare     Jaipur      Sharma, Amit      Seed/ Angel 1,75,000
+    2018                                                   Singal, 100 Co-   Funding
+                                                           founders Lab and
+                                                           others.
+                                                           Creation
+                                                           Investments,
+595 17-07- Ofbusiness           Finance        Gurugram    Falcon Edge,      Private     2,90,00,000
+    2018                                                   Matrix Partners   Equity
+                                                           India and Zodius
+                                                           Capital
+    17-07-                      Consumer                   Kingsway FCI      Private
+596 2018   Cars24               Internet       Gurugram    Fund, KCK Global  Equity      4,97,00,000
+                                                           & Others
+597 18-07- The Ken              Consumer       Bengaluru   Omidyar Network & Seed/ Angel 15,00,000
+    2018                        Internet                   Others            Funding
+    19-07-                      Consumer                   TPG Growth, The   Private
+598 2018   Book My Show         Internet       Mumbai      Rise Fund &       Equity      10,00,00,000
+                                                           Others
+599 20-07- HousingMan           Consumer       Bengaluru   N/A               Seed/ Angel 15,00,000
+    2018                        Internet                                     Funding
+600 21-07- PaySense             Consumer       Mumbai      PayU & Others     Private     1,80,00,000
+    2018                        Internet                                     Equity
+601 23-07- Yulu Bikes           Technology     Bengaluru   N/A               Seed/ Angel N/A
+    2018                                                                     Funding
+                                                           AngelList, Rahul
+602 23-07- VTION                Technology     Gurugram    Khanna, Rajeev    Seed/ Angel 2,80,000
+    2018                                                   Arora and Ram     Funding
+                                                           Ramsundar.
+                                                           Metaform
+                                                           Ventures, Hemant
+    23-07-                                                 Luthra, Micro     Seed/ Angel
+603 2018   Log9 Materials       Technology     Bengaluru   venture capital   Funding     4,36,000
+                                                           firm GEMS
+                                                           Partners and
+                                                           Others
+604 24-07- kidovators           Ed-Tech        Bengaluru   Gray Matters      Seed/ Angel 1,80,000
+    2018                                                                     Funding
+605 24-07- Digit                Consumer       Pune        Fairfax           Private     4,50,00,000
+    2018                        Internet                                     Equity
+                                                           Allcargo
+    25-07-                                                 Logistics,        Private
+606 2018   Black Soil           Finance        Mumbai      Navneet Education Equity      1,70,00,000
+                                                           and Mahavir
+                                                           Agency
+    25-07-                      Consumer                   BeeNext , WEH     Seed/ Angel
+607 2018   Trell                Internet       Bengaluru   Ventures and      Funding     12,50,000
+                                                           Sprout Ventures
+608 25-07- iqlect               Technology     Bengaluru   Ventureast and    Seed/ Angel 25,00,000
+    2018                                                   Exfinity          Funding
+                                                           Bharat
+                                                           Innovation, IDFC-
+                                                           Parampara
+609 26-07- Entropik             IT             Bengaluru   Capital,          Seed/ Angel 11,00,000
+    2018                                                   Arthavida         Funding
+                                                           Ventures,
+                                                           Jitendra Gupta &
+                                                           Others
+610 26-07- Bitla Software       Technology     Bengaluru   MakeMyTrip        Private     N/A
+    2018                                                                     Equity
+    26-07-                                                 Lindwall Family   Private
+611 2018   TheCapitalNet        Fin-Tech       Hyderabad   Investments LLC   Equity      5,00,000
+                                                           (LFI)
+612 30-07- Shuttl               Consumer       Gurugram    Amazon Alexa Fund Private     1,10,00,000
+    2018                        Internet                   & Dentsu Ventures Equity
+                                                           IDG Ventures,
+613 30-07- Cure Fit             Consumer       Bengaluru   Accel Partners,   Private     12,00,00,000
+    2018                        Internet                   Kalaari Capital   Equity
+                                                           and Others
+                                                           TPG, Norwest
+614 31-07- Five Star Group      Fin-Tech       Chennai     Venture Partners, Private     10,00,00,000
+    2018                                                   Sequoia Capital & Equity
+                                                           Matrix Partners
+615 31-07- Healthsignz          Healthcare     Hyderabad   Kantilal Patel    Seed/ Angel 50,00,000
+    2018                                                                     Funding
